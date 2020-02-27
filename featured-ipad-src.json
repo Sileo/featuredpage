@@ -1,0 +1,169 @@
+{
+	"class": "FeaturedStackView",
+	"minVersion": "0.7",
+	"views": [
+		{
+			"class": "FeaturedBannersView",
+			"itemSize": "{263, 148}",
+			"itemCornerRadius": 10,
+			"banners": [
+			    {
+					"url": "https://featuredpage.getsileo.app/banners/com.foxfort.portraitxi.jpg",
+					"title": "PortraitXI",
+					"package": "com.foxfort.portraitxi",
+					"repoName": "Packix"
+				},
+				{
+					"url": "https://featuredpage.getsileo.app/banners/com.oxidelabs.carbon.jpg",
+					"title": "Carbon",
+					"package": "com.oxidelabs.carbon",
+					"repoName": "Packix"
+				},
+				{
+					"url": "https://featuredpage.getsileo.app/banners/com.dpth.flux.jpg",
+					"title": "Flux",
+					"package": "com.dpth.flux",
+					"repoName": "Packix"
+				},
+				{
+					"url": "https://featuredpage.getsileo.app/banners/com.caestrada.nox.jpg",
+					"title": "Nox",
+					"package": "com.caestrada.nox",
+					"repoName": "Packix"
+				}
+			]
+		},
+		{
+			"class": "FeaturedAutoStackView",
+			"horizontalSpacing": 50,
+			"views": [
+				{
+					"class": "FeaturedStackView",
+					"preferredWidth": 380,
+					"views": [
+						{
+							"class": "FeaturedHeaderView",
+							"title": "Popular Packages",
+							"useBoldText": true
+						},
+						{
+							"class": "FeaturedPackageView",
+							"package": "com.anemonetheming.anemone3",
+							"packageName": "Anemone 3",
+							"packageAuthor": "CoolStar",
+							"repoName": "Electra",
+							"packageIcon": "https://featuredpage.getsileo.app/icons/com.anemonetheming.anemone3.png"
+						},
+						{
+							"class": "FeaturedPackageView",
+							"package": "me.tomt000.copylog",
+							"packageName": "Copylog",
+							"packageAuthor": "TomT000",
+							"repoName": "Packix",
+							"packageIcon": "https://featuredpage.getsileo.app/icons/me.tomt000.copylog.png"
+						},
+						{
+							"class": "FeaturedPackageView",
+							"package": "com.blackhole.Gesto",
+							"packageName": "Gesto",
+							"packageAuthor": "Alessandro Chiarlitti and Gabriele Filipponi",
+							"repoName": "Dynastic",
+							"packageIcon": "https://featuredpage.getsileo.app/icons/com.blackhole.gesto.png"
+						},
+						{
+							"class": "FeaturedPackageView",
+							"package": "com.blakeboxberger.honey",
+							"packageName": "Honey",
+							"packageAuthor": "Blake Boxberger",
+							"repoName": "Dynastic",
+							"packageIcon": "https://featuredpage.getsileo.app/icons/com.blakeboxberger.honey.png"
+						}
+					]
+				},
+				{
+					"class": "FeaturedStackView",
+					"preferredWidth": 380,
+					"views": [
+						{
+							"class": "FeaturedHeaderView",
+							"title": "Recent Packages",
+							"useBoldText": true
+						},
+						{
+							"class": "FeaturedPackageView",
+							"package": "com.justinpetkovic.youtubetools",
+							"packageName": "Youtube Tools",
+							"packageAuthor": "Justin Petkovic",
+							"repoName": "Electra",
+							"packageIcon": "https://featuredpage.getsileo.app/icons/com.justinpetkovic.youtubetools.png"
+						},
+						{
+							"class": "FeaturedPackageView",
+							"package": "xyz.royalapps.rainbow",
+							"packageName": "Rainbow",
+							"packageAuthor": "Justin Proulx",
+							"repoName": "Dynastic",
+							"packageIcon": "https://featuredpage.getsileo.app/icons/xyz.royalapps.rainbow.png"
+						},
+						{
+							"class": "FeaturedPackageView",
+							"package": "org.coolstar.classicfolders2-modern",
+							"packageName": "ClassicFolders 2",
+							"packageAuthor": "CoolStar",
+							"repoName": "Packix",
+							"packageIcon": "https://featuredpage.getsileo.app/icons/org.coolstar.classicfolders2.png"
+						},
+						{
+							"class": "FeaturedPackageView",
+							"package": "com.23aaron.zeze",
+							"packageName": "ZEZE",
+							"packageAuthor": "23 Aaron",
+							"repoName": "Dynastic",
+							"packageIcon": "https://featuredpage.getsileo.app/icons/com.23aaron.zeze.png"
+						}
+					]
+				}
+			]
+		},
+		{
+		    "class":"FeaturedAutoStackView",
+		    "horizontalSpacing":0,
+		    "views": [
+				{
+					"class":"FeaturedStackView",
+					"preferredWidth":400,
+					"xPadding":8,
+					"views": [
+						{
+							"class":"FeaturedStackView",
+							"orientation":"landscape",
+							"views":[
+								{
+									"class":"FeaturedButtonView",
+									"text":"Twitter",
+									"action":"https://twitter.com/GetSileo",
+									"yPadding":4
+								},
+								{
+									"class":"FeaturedButtonView",
+									"text":"Website",
+									"action":"https://getsileo.app/",
+									"yPadding":4
+								}
+							]
+						},
+						{
+						    "class":"FeaturedButtonView",
+							"text":"Support",
+							"action":"https://getsileo.app/#support",
+							"yPadding":4
+						},
+						{
+						    "class":"FeaturedInfoFooterView"
+						}
+					]
+				}
+	        ]
+		}
+	]
+}
