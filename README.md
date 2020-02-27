@@ -1,4 +1,4 @@
-<img align="left" src="http://getsileo.app/img/icon.png" width="130" height="130"></img>
+<img align="left" src="http://getsileo.app/img/icon.png" width="130" height="130"/>
 
 Sileo's featured page!
 
