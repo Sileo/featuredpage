@@ -4,7 +4,7 @@ Sileo's featured page!
 
 View this page on [Github](https://github.com/Sileo/featuredpage) to submit changes. Changes to the `gh-pages` branch are automatically published to the [production website](https://featuredpage.getsileo.app/).
 
-Note: Older Sileo versions (1.7.x and lower are redirected from https://coolstar.moe/) but still should be able to access this featured page.
+Note: Older Sileo versions (1.7.x and lower) are redirected from https://coolstar.moe/ but still should be able to access this featured page.
 
 ### Banners:
 
