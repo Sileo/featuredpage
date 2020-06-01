@@ -6,25 +6,25 @@
         "itemSize": "{263, 148}",
         "itemCornerRadius": 10,
         "banners": [{
-            "url": "https://featuredpage.getsileo.app/banners/com.apextweaks.veza.jpg",
-            "title": "Veza",
-            "package": "com.apextweaks.veza",
+            "url": "https://featuredpage.getsileo.app/banners/com.apextweaks.veloxreloaded.jpg",
+            "title": "Velox Reloaded",
+            "package": "com.apextweaks.veloxreloaded",
             "repoName": "Chariz"
         }, {
-            "url": "https://featuredpage.getsileo.app/banners/co.shuga.Shuga-Sticker-Pack.jpg",
-            "title": "Shuga Sticker Pack",
-            "package": "co.shuga.Shuga-Sticker-Pack",
-            "repoName": "Dynastic"
+            "url": "https://featuredpage.getsileo.app/banners/com.qiop1379.swipeextenderx.jpg",
+            "title": "SwipeExtenderX",
+            "package": "com.qiop1379.swipeextenderx",
+            "repoName": "Chariz"
         }, {
-            "url": "https://featuredpage.getsileo.app/banners/me.conorthedev.dotto+.jpg",
+            "url": "https://featuredpage.getsileo.app/banners/com.laughingquoll.quart.jpg",
+            "title": "Quart",
+            "package": "com.laughingquoll.quart",
+            "repoName": "Packix"
+        }, {
+            "url": "https://featuredpage.getsileo.app/banners/com.4nni3.picturemodule.jpg",
             "title": "dotto+",
-            "package": "me.conorthedev.dotto+",
-            "repoName": "Dynastic"
-        }, {
-            "url": "https://featuredpage.getsileo.app/banners/hi.my.name.is.ubik.kalm.jpg",
-            "title": "Kalm",
-            "package": "hi.my.name.is.ubik.kalm",
-            "repoName": "Chariz"
+            "package": "com.4nni3.picturemodule",
+            "repoName": "Packix"
         }]
     }, {
         "class": "FeaturedAutoStackView",
@@ -34,86 +34,86 @@
             "preferredWidth": 400,
             "views": [{
                 "class": "FeaturedHeaderView",
-                "title": "Popular Packages",
+                "title": "Hot Right Now",
                 "useBoldText": true
             }, {
                 "class": "FeaturedPackageView",
-                "package": "com.muirey03.arc",
-                "packageName": "Arc",
-                "packageAuthor": "Muirey03",
+                "package": "com.esquilli.scorpion",
+                "packageName": "Scorpion",
+                "packageAuthor": "Esquilli",
                 "repoName": "Dynastic",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.muirey03.arc.png"
+                "packageIcon": "https://featuredpage.getsileo.app/icons/com.esquilli.scorpion.png"
             }, {
                 "class": "FeaturedPackageView",
-                "package": "com.springtomize.st5",
-                "packageName": "Springtomize 5",
-                "packageAuthor": "sharedRoutine",
-                "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.springtomize.st5.png"
+                "package": "dev.aryanjnambiar.wonderbar",
+                "packageName": "Wonderbar",
+                "packageAuthor": "Aryan Nambiar",
+                "repoName": "Chariz",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/dev.aryanjnambiar.wonderbar.png"
             }, {
 				"class": "FeaturedPackageView",
-				"package": "com.xandesign.felicity",
-				"packageName": "Felicity",
-				"packageAuthor": "Xerusdesign",
-				"repoName": "Dynastic",
-				"packageIcon": "https://featuredpage.getsileo.app/icons/com.xandesign.felicity.png"
+				"package": "org.packix.flixenhancer",
+				"packageName": "FlixRatings",
+				"packageAuthor": "Joshua Seltzer",
+				"repoName": "Packix",
+				"packageIcon": "https://featuredpage.getsileo.app/icons/org.packix.flixenhancer.png"
             }, {
                 "class": "FeaturedPackageView",
-                "package": "me.conorthedev.lyricify",
-                "packageName": "Lyricify",
-                "packageAuthor": "ConorTheDev",
-                "repoName": "Chariz",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/me.conorthedev.lyricify.png"
-            }, {
-                "class": "FeaturedPackageView",
-                "package": "in.tnttaol.darker",
-                "packageName": "Darker",
-                "packageAuthor": "ItsTNT",
+                "package": "me.gmoran.eclipse13",
+                "packageName": "Eclipse for iOS 13",
+                "packageAuthor": "GMoran",
                 "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/in.tnttaol.darker.png"
+                "packageIcon": "https://featuredpage.getsileo.app/icons/me.gmoran.eclipse13.png"
+            }, {
+                "class": "FeaturedPackageView",
+                "package": "com.mirac.kindastock",
+                "packageName": "kindaStock",
+                "packageAuthor": "Mirac",
+                "repoName": "Dynastic",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/com.mirac.kindastock.png"
             }]
         }, {
             "class": "FeaturedStackView",
             "preferredWidth": 400,
             "views": [{
                 "class": "FeaturedHeaderView",
-                "title": "Recent Packages",
+                "title": "What We're Using",
                 "useBoldText": true
             }, {
                 "class": "FeaturedPackageView",
-                "package": "com.megadev.b3rry",
-                "packageName": "B3rry",
-                "packageAuthor": "MegaDev",
-                "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.megadev.b3rry.png"
-            }, {
-                "class": "FeaturedPackageView",
-                "package": "com.Lo7.camerAlts",
-                "packageName": "cameraAlts",
-                "packageAuthor": "LO7",
+                "package": "dev.jeffresc.songshare",
+                "packageName": "SongShare",
+                "packageAuthor": "JeffResc",
                 "repoName": "Dynastic",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.Lo7.camerAlts.png"
+                "packageIcon": "https://featuredpage.getsileo.app/icons/dev.jeffresc.songshare.png"
             }, {
                 "class": "FeaturedPackageView",
-                "package": "com.ouraigua.xcode.audicy",
-                "packageName": "Audicy",
-                "packageAuthor": "Jalal Ouraigua",
+                "package": "com.megadev.batteryramp",
+                "packageName": "BatteryRamp",
+                "packageAuthor": "MegaDev",
+                "repoName": "Dynastic",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/com.megadev.batteryramp.png"
+            }, { 
+                "class": "FeaturedPackageView",
+                "package": "com.ryant453.groups",
+                "packageName": "Groups",
+                "packageAuthor": "Ryan Trent",
+                "repoName": "Dynastic",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/com.ryant453.groups.png"
+            }, {
+                "class": "FeaturedPackageView",
+                "package": "dev.hyper.playing",
+                "packageName": "Playing",
+                "packageAuthor": "ConorTheDev",
+                "repoName": "Dynastic",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/dev.hyper.playing.png"
+            }, {
+                "class": "FeaturedPackageView",
+                "package": "com.elias.spy",
+                "packageName": "Spy",
+                "packageAuthor": "Elias",
                 "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.ouraigua.xcode.audicy.png"
-            }, {
-                "class": "FeaturedPackageView",
-                "package": "com.jacobcxdev.idunnou",
-                "packageName": "iDunnoU",
-                "packageAuthor": "JacobCXDev",
-                "repoName": "Chariz",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.jacobcxdev.idunnou.png"
-            }, {
-                "class": "FeaturedPackageView",
-                "package": "prasa.ultrapowersavingmode",
-                "packageName": "UltraPowerSavingMode",
-                "packageAuthor": "Prasa",
-                "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/prasa.ultrapowersavingmode.png"
+                "packageIcon": "https://featuredpage.getsileo.app/icons/com.elias.spy.png"
             }]
         }]
     }, {
