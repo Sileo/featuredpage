@@ -95,11 +95,11 @@
                 "packageIcon": "https://featuredpage.getsileo.app/icons/beta.simalary.replay.png"
             }, { 
                 "class": "FeaturedPackageView",
-                "package": "com.kal-themes.novaui",
-                "packageName": "Nova UI",
-                "packageAuthor": "Kal_Themes",
+                "package": "com.foxfort.translomatic",
+                "packageName": "Translomatic",
+                "packageAuthor": "FoxfortMobile",
                 "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.kal-themes.novaui.png"
+                "packageIcon": "https://featuredpage.getsileo.app/icons/com.foxfort.translomatic.png"
             }, {
                 "class": "FeaturedPackageView",
                 "package": "com.ahmad.pinheads",
