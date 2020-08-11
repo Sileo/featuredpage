@@ -84,6 +84,17 @@
 			"views":[
 				{
 					"class":"DepictionSubheaderView",
+					"title":"1.9.1",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"1. Fix regression in 1.9.0 that caused a crash on launch with certain languages",
+					"useSpacing":true
+				},
+				{
+					"class":"DepictionSubheaderView",
 					"title":"1.9.0",
 					"useBoldText":true,
 					"useBottomMargin":false
