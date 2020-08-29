@@ -109,11 +109,11 @@
                 "packageIcon": "https://featuredpage.getsileo.app/icons/com.ahmad.pinheads.png"
             }, {
                 "class": "FeaturedPackageView",
-                "package": "REPLACE",
-                "packageName": "REPLACE",
-                "packageAuthor": "REPLACE",
-                "repoName": "REPLACE",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/REPLACE.png"
+                "package": "com.d3vl0pr.relapse",
+                "packageName": "RelapseUI",
+                "packageAuthor": "d3vl0pr",
+                "repoName": "Packix",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/com.d3vl0pr.relapse.png"
             }]
         }]
     }, {
