@@ -68,7 +68,7 @@
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"September 2, 2020",
+					"text":"September 3, 2020",
 					"title":"Updated"
 				},
 				{
@@ -82,6 +82,17 @@
 			"class":"DepictionStackView",
 			"tabname":"Changelog",
 			"views":[
+				{
+					"class":"DepictionSubheaderView",
+					"title":"2.0.0b6",
+					"useBoldText":true,
+					"useBottomMargin":false
+				},
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"Fix issues with downloading paid packages.",
+					"useSpacing":true
+				}
 				{
 					"class":"DepictionSubheaderView",
 					"title":"2.0.0b5",
