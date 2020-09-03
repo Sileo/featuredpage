@@ -92,7 +92,7 @@
 					"class":"DepictionMarkdownView",
 					"markdown":"Fix issues with downloading paid packages.",
 					"useSpacing":true
-				}
+				},
 				{
 					"class":"DepictionSubheaderView",
 					"title":"2.0.0b5",
