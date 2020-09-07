@@ -11,6 +11,11 @@
             "package": "com.xandesign.felicitypro",
             "repoName": "Dynastic"
         }, {
+            "url": "https://featuredpage.getsileo.app/banners/com.megadev.dra1n.jpg",
+            "title": "Dra1n",
+            "package": "com.megadev.dra1n",
+            "repoName": "Dynastic"
+        }, {
             "url": "https://featuredpage.getsileo.app/banners/com.jacobcxdev.iris.jpg",
             "title": "Iris",
             "package": "com.jacobcxdev.iris",
@@ -19,11 +24,6 @@
             "url": "https://featuredpage.getsileo.app/banners/com.samgisaninja.snell.jpg",
             "title": "Snell",
             "package": "com.samgisaninja.snell",
-            "repoName": "Dynastic"
-        }, {
-            "url": "https://featuredpage.getsileo.app/banners/com.megadev.dra1n.jpg",
-            "title": "Dra1n",
-            "package": "com.megadev.dra1n",
             "repoName": "Dynastic"
         }]
     }, {
