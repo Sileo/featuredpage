@@ -38,11 +38,11 @@
                 "useBoldText": true
             }, {
                 "class": "FeaturedPackageView",
-                "package": "com.ahmedmakls.facadecolor",
-                "packageName": "Facade Color",
-                "packageAuthor": "ahmedmakls",
+                "package": "com.colec.bigsnooze",
+                "packageName": "BigSnooze",
+                "packageAuthor": "colecabral",
                 "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.ahmedmakls.facadecolor.png"
+                "packageIcon": "https://featuredpage.getsileo.app/icons/com.colec.bigsnooze.png"
             }, {
                 "class": "FeaturedPackageView",
                 "package": "com.icraze.sleepsaver",
@@ -93,7 +93,7 @@
                 "packageAuthor": "Simalary (Chris)",
                 "repoName": "Packix",
                 "packageIcon": "https://featuredpage.getsileo.app/icons/beta.simalary.replay.png"
-            }, { 
+            }, {
                 "class": "FeaturedPackageView",
                 "package": "com.foxfort.translomatic",
                 "packageName": "Translomatic",
