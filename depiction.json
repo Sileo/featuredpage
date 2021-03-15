@@ -82,6 +82,17 @@
 			"class":"DepictionStackView",
 			"tabname":"Changelog",
 			"views":[
+                {
+                    "class":"DepictionSubheaderView",
+                    "title":"2.0.1",
+                    "useBoldText":true,
+                    "useBottomMargin":false
+                },
+                {
+                    "class":"DepictionMarkdownView",
+                    "markdown":"- Fix a crash on quickly changing in and out of new\n- Fix bold text crash\n- Fix payment crash\n- Payment will now be cancelled upon cancelling biometric\n- Fix colour picker presentation on iPad\n- Remove user filtering, everyone is developer now\n- Fix mismatch theme crash\n- Fix sign out crash on iPad\n- Should fix the respring button being slow\n- Sileo will no longer crash upon updating itself\n- Fix adding a repo from link\n- Adjust some button colours\n- Fix share sheet presentation on iPad",
+                    "useSpacing":true
+                },
 				{
 					"class":"DepictionSubheaderView",
 					"title":"2.0.0b6",
