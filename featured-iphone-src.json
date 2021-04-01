@@ -22,9 +22,9 @@
             "repoName": "Packix"
         }, {
             "url": "https://featuredpage.getsileo.app/banners/com.megadev.mediabar.jpg",
-            "title": "MediaBar",
-            "package": "com.megadev.mediabar",
-            "repoName": "Dynastic"
+            "title": "MediaBar14",
+            "package": "com.megadev.mediabar14",
+            "repoName": "Chariz"
         }]
     }, {
         "class": "FeaturedAutoStackView",
