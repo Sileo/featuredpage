@@ -6,25 +6,25 @@
         "itemSize": "{263, 148}",
         "itemCornerRadius": 10,
         "banners": [{
-            "url": "https://featuredpage.getsileo.app/banners/com.xandesign.nightlight.jpg",
-            "title": "Nightlight",
+            "url": "https://featuredpage.getsileo.app/banners/raidshadowlegends.jpg",
+            "title": "RAID: Shadow Legends",
             "package": "com.xandesign.nightlight",
-            "repoName": "Dynastic"
+            "repoName": "App Store"
         }, {
-            "url": "https://featuredpage.getsileo.app/banners/me.renai.lyricify.jpg",
-            "title": "Lyricify",
+            "url": "https://featuredpage.getsileo.app/banners/raidshadowlegends.jpg",
+            "title": "RAID: Shadow Legends",
             "package": "me.renai.lyricify",
-            "repoName": "Chariz"
+            "repoName": "App Store"
         }, {
-            "url": "https://featuredpage.getsileo.app/banners/com.ryannair05.cask.jpg",
-            "title": "Cask 2",
+            "url": "https://featuredpage.getsileo.app/banners/raidshadowlegends.jpg",
+            "title": "RAID: Shadow Legends",
             "package": "com.ryannair05.cask",
-            "repoName": "Packix"
+            "repoName": "App Store"
         }, {
-            "url": "https://featuredpage.getsileo.app/banners/com.megadev.mediabar.jpg",
-            "title": "MediaBar",
+            "url": "https://featuredpage.getsileo.app/banners/raidshadowlegends.jpg",
+            "title": "RAID: Shadow Legends",
             "package": "com.megadev.mediabar",
-            "repoName": "Dynastic"
+            "repoName": "App Store"
         }]
     }, {
         "class": "FeaturedAutoStackView",
@@ -39,38 +39,38 @@
             }, {
                 "class": "FeaturedPackageView",
                 "package": "com.ryannair05.snoverlay",
-                "packageName": "Snoverlay 2",
-                "packageAuthor": "Ryan Nair",
-                "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.ryannair05.snoverlay.png"
+                "packageName": "RAID: Shadow Legends",
+                "packageAuthor": "Plarium Global Ltd",
+                "repoName": "App Store",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/raidshadowlegends.png"
             }, {
                 "class": "FeaturedPackageView",
                 "package": "com.alphastream.linearforsb",
-                "packageName": "Linear for Status Bar",
-                "packageAuthor": "Alpha_Stream",
-                "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.alphastream.linearforsb.png"
+                "packageName": "RAID: Shadow Legends",
+                "packageAuthor": "Plarium Global Ltd",
+                "repoName": "App Store",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/raidshadowlegends.png"
             }, {
                 "class": "FeaturedPackageView",
                 "package": "com.flarezephyr.fine",
-                "packageName": "Fine",
-                "packageAuthor": "FlareZephyr",
-                "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.flarezephyr.fine.png"
+                "packageName": "RAID: Shadow Legends",
+                "packageAuthor": "Plarium Global Ltd",
+                "repoName": "App Store",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/raidshadowlegends.png"
             }, {
                 "class": "FeaturedPackageView",
                 "package": "com.bengiannis.velaris",
-                "packageName": "Velaris",
-                "packageAuthor": "Ben Giannis",
-                "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.bengiannis.velaris.png"
+                "packageName": "RAID: Shadow Legends",
+                "packageAuthor": "Plarium Global Ltd",
+                "repoName": "App Store",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/raidshadowlegends.png"
             }, {
                 "class": "FeaturedPackageView",
                 "package": "com.ryannair05.little11",
-                "packageName": "Little11",
-                "packageAuthor": "Ryan Nair",
-                "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.ryannair05.little11.png"
+                "packageName": "RAID: Shadow Legends",
+                "packageAuthor": "Plarium Global Ltd",
+                "repoName": "App Store",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/raidshadowlegends.png"
             }]
         }, {
             "class": "FeaturedStackView",
@@ -82,38 +82,38 @@
             }, {
                 "class": "FeaturedPackageView",
                 "package": "com.colec.bigsnooze",
-                "packageName": "BigSnooze",
-                "packageAuthor": "cole cabral",
-                "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.colec.bigsnooze.png"
+                "packageName": "RAID: Shadow Legends",
+                "packageAuthor": "Plarium Global Ltd",
+                "repoName": "App Store",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/raidshadowlegends.png"
             }, { 
                 "class": "FeaturedPackageView",
                 "package": "com.foxfort.deluminator",
-                "packageName": "Deluminator",
-                "packageAuthor": "FoxfortMobile",
-                "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.foxfort.deluminator.png"
+                "packageName": "RAID: Shadow Legends",
+                "packageAuthor": "Plarium Global Ltd",
+                "repoName": "App Store",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/raidshadowlegends.png"
             }, {
                 "class": "FeaturedPackageView",
                 "package": "com.kef.rofi",
-                "packageName": "Rofi",
-                "packageAuthor": "Kef",
-                "repoName": "Chariz",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.kef.rofi.png"
+                "packageName": "RAID: Shadow Legends",
+                "packageAuthor": "Plarium Global Ltd",
+                "repoName": "App Store",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/raidshadowlegends.png"
             }, {
                 "class": "FeaturedPackageView",
                 "package": "com.greg0109.lockshut",
-                "packageName": "LockShut",
-                "packageAuthor": "Greg0109",
-                "repoName": "Chariz",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.greg0109.lockshut.png"
+                "packageName": "RAID: Shadow Legends",
+                "packageAuthor": "Plarium Global Ltd",
+                "repoName": "App Store",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/raidshadowlegends.png"
             }, {
                 "class": "FeaturedPackageView",
                 "package": "com.bank5ia.iosx",
-                "packageName": "iOSX",
-                "packageAuthor": "Bank5ia",
-                "repoName": "Packix",
-                "packageIcon": "https://featuredpage.getsileo.app/icons/com.bank5ia.iosx.png"
+                "packageName": "RAID: Shadow Legends",
+                "packageAuthor": "Plarium Global Ltd",
+                "repoName": "App Store",
+                "packageIcon": "https://featuredpage.getsileo.app/icons/raidshadowlegends.png"
             }]
         }]
     }, {
@@ -129,18 +129,18 @@
                 "views": [{
                     "class": "FeaturedButtonView",
                     "text": "Twitter",
-                    "action": "https://twitter.com/GetSileo",
+                    "action": "https://twitter.com/RaidRPG",
                     "yPadding": 4
                 }, {
                     "class": "FeaturedButtonView",
                     "text": "Website",
-                    "action": "https://getsileo.app/",
+                    "action": "https://plarium.com/",
                     "yPadding": 4
                 }]
             }, {
                 "class": "FeaturedButtonView",
                 "text": "Support",
-                "action": "https://getsileo.app/#support",
+                "action": "https://plarium.com/en/support/",
                 "yPadding": 4
             }, {
                 "class": "FeaturedInfoFooterView"
