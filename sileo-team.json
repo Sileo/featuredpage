@@ -1,15 +1,15 @@
 [
   {
-    "github": "coolstar",
-    "author": "CoolStar",
-    "role": "Founder",
-    "twitter": "https://www.twitter.com/CStar_OW"
-  },
-  {
     "github": "elihwyma",
     "author": "Amy",
     "role": "Lead Maintainer",
     "twitter": "https://www.twitter.com/elihwyma"
+  },
+  {
+    "github": "coolstar",
+    "author": "CoolStar",
+    "role": "Founder",
+    "twitter": "https://www.twitter.com/CStar_OW"
   },
   {
     "github": "aesign",
