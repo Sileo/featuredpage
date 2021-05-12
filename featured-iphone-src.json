@@ -1,6 +1,6 @@
 {
     "class":"FeaturedStackView",
-    "minVersion":"0.8",
+    "minVersion":"0.7",
     "views":[
        {
           "class":"FeaturedBannersView",
