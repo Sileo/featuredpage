@@ -64,11 +64,11 @@
                    },
                    {
                       "class":"FeaturedPackageView",
-                      "package":"com.kef.rofi",
-                      "packageName":"Rofi",
-                      "packageAuthor":"Kef",
+                      "package":"ws.hbang.newterm2",
+                      "packageName":"NewTerm 2",
+                      "packageAuthor":"HASHBANG Productions",
                       "repoName":"Chariz",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.kef.rofi.png"
+                      "packageIcon":"https://featuredpage.getsileo.app/icons/ws.hbang.newterm2.png"
                    },
                    {
                       "class":"FeaturedPackageView",
