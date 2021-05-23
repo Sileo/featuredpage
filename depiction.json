@@ -7,7 +7,7 @@
 			"tabname": "Details",
 			"views": [{
 					"class": "DepictionMarkdownView",
-					"markdown": "Unpack the full potential of your device with a proper package manager for iOS 12 and higher!\n\nSileo is a package manager for iOS that allows users to find and install packages on jailbroken iOS devices. Sileo is based on APT, ported to iOS.",
+					"markdown": "Unpack the full potential of your device with a proper package manager for iOS 11 and higher!\n\nSileo is a package manager for iOS that allows users to find and install packages on jailbroken iOS devices. Sileo is based on APT, ported to iOS.",
 					"useSpacing": true
 				},
 				{
@@ -79,6 +79,17 @@
 			"class": "DepictionStackView",
 			"tabname": "Changelog",
 			"views": [{
+					"class": "DepictionSubheaderView",
+					"title": "2.1",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Swipe actions on tweaks for installing, upgrading, uninstalling, adding repo\n- Canister Implementation for searching for tweaks on repos you don't have. You can Add the Repo and have the package queued for you\n- Haptic feedback for swipe actions and the queue button\n- Alternative icons\n- Refreshing sources no longer clears the queue\n- Made adding multiple sources at once significantly faster\n- Relocated ignored upgrades to their own section, with an option to hide them entirely\n- Search now queries for package identifier, name, author, maintainer, and description\n- Made alphabetical sorting case-insensitive\n- Show Number of Packages installed from that repo on the sources page\n- Option to auto complete queue\n- Option to complete queue later\n- ModMyTTD has been removed as a default repo\n- Updated 3D Touch shortcuts\n- Adjusted the Background App Refresh prompt\n- Ability to restart/retry a download if the download failed \n- Fixed lag when tapping the Done button\n- Fixed duplicate repos\n- Fixed icons being blank on the sources list view\n- Fixed refreshing repos on launch\n- Fixed tapping the Sources tab bar to return to the root sources menu\n- Fixed certain settings not showing up under certain localizations\n- Added more localizations\n- Added a Developer Mode toggle\n- Added a Backend Class that tweak developers can use to interface with Sileo's backend\n- Removed unnecessary dependencies\n- Memory improvements\n- Performance improvements\n- Fix links in depictions\n- When pressing packages tab bar item, scroll to top of list\n- All analytics have been removed",
+					"useSpacing": true
+				},
+				{
 					"class": "DepictionSubheaderView",
 					"title": "2.0.1",
 					"useBoldText": true,
