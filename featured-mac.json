@@ -7,25 +7,25 @@
         "itemCornerRadius": 10,
         "banners":[
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.jontelang.snapper2.packix.jpg",
+               "url":"https://featuredpage.getsileo.app/banners/me.evelyn.accord.png",
                "title":"Accord",
                "package":"me.evelyn.accord",
-               "repoName":"Packix"
+               "repoName":"Tale/Cherimoya"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.megadev.jellylockreborn.jpg",
+               "url":"https://featuredpage.getsileo.app/banners/neovim.png",
                "title":"neovim",
                "package":"neovim",
                "repoName":"Procursus"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.bossgfx.elysian.jpg",
+               "url":"https://featuredpage.getsileo.app/banners/bat.png",
                "title":"bat",
                "package":"bat",
                "repoName":"Procursus"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/xyz.royalapps.prokeys.jpg",
+               "url":"https://featuredpage.getsileo.app/banners/exa.png",
                "title":"exa",
                "package":"exa",
                "repoName":"Procursus"
