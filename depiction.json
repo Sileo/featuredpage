@@ -7,7 +7,7 @@
 			"tabname": "Details",
 			"views": [{
 					"class": "DepictionMarkdownView",
-					"markdown": "Unpack the full potential of your device with a proper package manager for iOS 11 and higher!\n\nSileo is a package manager for iOS that allows users to find and install packages on jailbroken iOS devices. Sileo is based on APT, ported to iOS.",
+					"markdown": "Unpack the full potential of your device with a proper package manager for iOS 12 and higher!\n\nSileo is a package manager for iOS that allows users to find and install packages on jailbroken iOS devices. Sileo is based on APT, ported to iOS.",
 					"useSpacing": true
 				},
 				{
@@ -21,7 +21,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "#### Native and Modern\n\nSileo has been designed and built from the ground up to work properly with all devices on iOS 11+. It features a modern UI that emphasises native UI elements, with fully native package depictions on supported repos! It also allows repositories to handle payments seamlessly and natively with payments secured by Touch/Face ID.\n\nSileo uses the latest versions of both DPKG and APT to ensure that users get the best possible experience with the latest optimizations and stability fixes applied for both. Both DPKG and APT have minimal patches to ensure they may continue to be updated, while still being compatible with most existing iOS repositories.",
+					"markdown": "#### Native and Modern\n\nSileo has been designed and built from the ground up to work properly with all devices on iOS 12+. It features a modern UI that emphasises native UI elements, with fully native package depictions on supported repos! It also allows repositories to handle payments seamlessly and natively with payments secured by Touch/Face ID.\n\nSileo uses the latest versions of both DPKG and APT to ensure that users get the best possible experience with the latest optimizations and stability fixes applied for both. Both DPKG and APT have minimal patches to ensure they may continue to be updated, while still being compatible with most existing iOS repositories.",
 					"useSpacing": true
 				},
 				{
@@ -44,7 +44,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "#### Fast\n\nSileo has been designed from the ground up to run quickly and efficiently. Repositories load faster, without blocking the UI to reload data. Many infrequently-used APT features have not been brought over to Sileo to keep it lean and fast.\n\n#### Integrated\n\nBecause Sileo has been built with the latest DPKG and APT in mind, they all have been updated to ensure they work together in the most efficient manner possible. Great effort has been taken to ensure that the entire process from app launch to package installation has been streamlined, with no processes being duplicated where possible, to ensure a better, faster, and more stable overall experience.\n\n#### Free\n\nSileo is available, free of charge, for all devices on iOS 11 and up",
+					"markdown": "#### Fast\n\nSileo has been designed from the ground up to run quickly and efficiently. Repositories load faster, without blocking the UI to reload data. Many infrequently-used APT features have not been brought over to Sileo to keep it lean and fast.\n\n#### Integrated\n\nBecause Sileo has been built with the latest DPKG and APT in mind, they all have been updated to ensure they work together in the most efficient manner possible. Great effort has been taken to ensure that the entire process from app launch to package installation has been streamlined, with no processes being duplicated where possible, to ensure a better, faster, and more stable overall experience.\n\n#### Free\n\nSileo is available, free of charge, for all devices on iOS 12 and up",
 					"useSpacing": true
 				},
 				{
