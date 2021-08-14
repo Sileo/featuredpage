@@ -30,12 +30,6 @@
     "twitter": "https://www.twitter.com/aesign_"
   },
   {
-    "github": "kirb",
-    "author": "Adam Demasi",
-    "role": "Developer",
-    "twitter": "https://www.twitter.com/hbkirb"
-  },
-  {
     "github": "captinc",
     "author": "Capt Inc",
     "role": "Developer",
@@ -52,6 +46,12 @@
     "author": "Skitty",
     "role": "Developer",
     "twitter": "https://www.twitter.com/Skittyblock"
+  },
+  {
+    "github": "tale",
+    "author": "Aarnav Tale",
+    "role": "Notable Contributor",
+    "twitter": "https://www.twitter.com/aarnavtale"
   },
   {
     "github": "23aaron",
