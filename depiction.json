@@ -30,7 +30,11 @@
 					"itemSize": "{160, 346}",
 					"screenshots": [{
 							"accessibilityText": "Screenshot",
-							"url": "https://featuredpage.getsileo.app/depictionassets/org.coolstar.sileo-screen2.png"
+							"url": "https://featuredpage.getsileo.app/depictionassets/org.coolstar.sileo-screen1.png"
+						},
+						{
+							"accessibilityText": "Screenshot",
+							"url": "https://featuredpage.getsileo.app/depictionassets/org.coolstar.sileo-screen2png"
 						},
 						{
 							"accessibilityText": "Screenshot",
@@ -38,7 +42,7 @@
 						},
 						{
 							"accessibilityText": "Screenshot",
-							"url": "https://featuredpage.getsileo.app/depictionassets/org.coolstar.sileo-screen5.png"
+							"url": "https://featuredpage.getsileo.app/depictionassets/org.coolstar.sileo-screen4.png"
 						}
 					]
 				},
