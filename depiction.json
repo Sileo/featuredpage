@@ -12,7 +12,7 @@
 				},
 				{
 					"class": "DepictionImageView",
-					"URL": "https://featuredpage.getsileo.app/depictionassets/org.coolstar.sileo-top.png",
+					"URL": "https://getsileo.app/img/comp.png",
 					"width": 539,
 					"height": 360,
 					"horizontalPadding": 30,
@@ -53,7 +53,7 @@
 				},
 				{
 					"class": "DepictionImageView",
-					"URL": "https://featuredpage.getsileo.app/depictionassets/org.coolstar.sileo-bottom.png",
+					"URL": "https://getsileo.app/img/iphone.png",
 					"width": 834,
 					"height": 176,
 					"horizontalPadding": 30,
