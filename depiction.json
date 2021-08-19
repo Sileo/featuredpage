@@ -84,6 +84,28 @@
 			"tabname": "Changelog",
 			"views": [{
 					"class": "DepictionSubheaderView",
+					"title": "2.2.1",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Fix bug with DPKG locking\n- Fix bug with cannot find archives\n- Fix more by this developer button\n- Fix bugs with installing tweaks from deb",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.2",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- A redesigned package install page designed to show you exactly whats happening\n- A new button cancelling downloads so you can change or remove items from the queue\n- iCloud Profile Pictures on Featured Page is back\n- New button in package depictions to go to that repo \n- Added an alert for adding dist repos with special handlers for BigBoss and Procursus. Adding https://bigboss.org/ will add BigBoss correctly for you\n- Support for Canister on the featured page \n- Improved trackpad support and support for CMD R and CMD + on the Sources Page\n- The ability to change language inside Sileo\n- Sileo will fade and animate out when you press respring \n- The ability to add installed packages to the wishlist \n- Added support for sorting by size in Installed Packages\n- Holding on a file location in Package Contents gives you the option to Copy Path and Open in Filza (If it's installed)\n- Installed Packages category has been added for each repo\n- Add Footer in Sources page with source count\n- Added option to always show install log \n- Added a check to see if a repo is online and working, this only happens if you add one repo at a time \n- Improved error messages and handling \n- News will only show if there has been an article recently \n- Will now show a warning if you try to remove a package marked as essential\n- When pasting in a source it will automatically remove a double https:// \n- 3 new app icons, thanks to Emma and Doregon\n- Sileo now officially supports all jailbreaks. Coolstar jailbreak users should continue to use Procursus to download Sileo, other jailbreaks can use the repo https://repo.getsileo.app/ Thanks to @tale#1111 for helping with this! Sileo will share its sources with Cydia if you're on unc0ver or checkra1n. \n- Lots of the core components of Sileo have been rewritten to give you a much more fluid experience. This includes faster repo refreshes, faster queue load times and no UI hitches. Sileo will now use significantly less memory. This has been helped by increased caching and using faster libraries for decompression and support for repos using .zst.\n- Installed package count is now right if you have updates on a package\n- Reduce network usage involving Canister\n- Fix Sources View Page opening to a blank view\n- Fix garbage collection on download/image cache\n- Don't refresh every repo when you add one more\n- Fix version sometimes being Unknown\n- Fix images being blank when launching app after 24 hours \n- The new page has seen significant improvements to its loading times and smoothness. Note, this will require your database to be reset\n- Removed image border where it didn't look good\n- Removed 3D recogniser to package button, just hold the modify button to downgrade\n- Sharing Packages is now more useful\n- Sileo will now install Recommends for packages from bootstrap repos\n- Fix device storage is full error when refreshing repos\n- Fixed Download errors and the retry download button",
+					"useSpacing": true
+				},
+				 {
+					"class": "DepictionSubheaderView",
 					"title": "2.1",
 					"useBoldText": true,
 					"useBottomMargin": false
