@@ -8,15 +8,15 @@
           "itemCornerRadius":10,
           "banners":[
              {
+                "url":"https://featuredpage.getsileo.app/banners/com.tr1fecta.akara.png",
+                "title":"Akara",
+                "package":"com.tr1fecta.akara",
+                "repoName":"Chariz"
+             },
+             {
                 "url":"https://featuredpage.getsileo.app/banners/com.jontelang.snapper2.packix.jpg",
                 "title":"Snapper 2",
                 "package":"com.jontelang.snapper2.packix",
-                "repoName":"Packix"
-             },
-             {
-                "url":"https://featuredpage.getsileo.app/banners/com.megadev.jellylockreborn.jpg",
-                "title":"JellyLock Reborn",
-                "package":"com.megadev.jellylockreborn",
                 "repoName":"Packix"
              },
              {
@@ -134,7 +134,7 @@
                       "package":"xyz.royalapps.jellyfish",
                       "packageName":"Jellyfish",
                       "packageAuthor":"Justin Proulx and Ayden Panhuyzen",
-                      "repoName":"Dynastic",
+                      "repoName":"Chariz",
                       "packageIcon":"https://featuredpage.getsileo.app/icons/xyz.royalapps.jellyfish.png"
                    }
                 ]
