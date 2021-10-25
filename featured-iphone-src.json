@@ -8,7 +8,7 @@
           "itemCornerRadius":10,
           "banners":[
              {
-                "url":"https://elihwyma.github.io/featuredpage/banners/com.amywhile.aemulo.png",
+                "url":"https://featuredpage.getsileo.app/banners/com.amywhile.aemulo.png",
                 "title":"Aemulo",
                 "package":"com.amywhile.aemulo",
                 "repoName":"Chariz"
