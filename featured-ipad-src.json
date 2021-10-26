@@ -7,6 +7,12 @@
         "itemCornerRadius": 10,
         "banners":[
             {
+               "url":"https://featuredpage.getsileo.app/banners/com.amywhile.aemulo.png",
+               "title":"Aemulo",
+               "package":"com.amywhile.aemulo",
+               "repoName":"Chariz"
+            },
+            {
                "url":"https://featuredpage.getsileo.app/banners/com.tr1fecta.akara.png",
                "title":"Akara",
                "package":"com.tr1fecta.akara",
@@ -23,12 +29,6 @@
                "title":"Elysian",
                "package":"com.bossgfx.elysian",
                "repoName":"Packix"
-            },
-            {
-               "url":"https://featuredpage.getsileo.app/banners/xyz.royalapps.prokeys.jpg",
-               "title":"ProKeys",
-               "package":"xyz.royalapps.prokeys",
-               "repoName":"Chariz"
             }
          ]
     }, {
@@ -54,11 +54,11 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.daveapps.quitall",
-                     "packageName":"QuitAll",
-                     "packageAuthor":"Dave van Wijk",
+                     "package":"xyz.royalapps.prokeys",
+                     "packageName":"ProKeys",
+                     "packageAuthor":"Justin Proulx",
                      "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.daveapps.quitall.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/xyz.royalapps.prokeys.png"
                   },
                   {
                      "class":"FeaturedPackageView",
