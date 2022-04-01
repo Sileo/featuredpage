@@ -13,21 +13,21 @@
                "repoName":"Chariz"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.smokin1337.satellite.jng",
+               "url":"https://featuredpage.getsileo.app/banners/com.smokin1337.satellite.jpg",
                "title":"Satellite",
                "package":"com.smokin1337.satellite",
                "repoName":"Havoc"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.jontelang.snapper2.packix.jpg",
-               "title":"Snapper 2",
-               "package":"com.jontelang.snapper2.packix",
-               "repoName":"Havoc"
+               "url":"https://featuredpage.getsileo.app/banners/xyz.burritoz.thomz.multipla.jpg",
+               "title":"Multipla",
+               "package":"xyz.burritoz.thomz.multipla",
+               "repoName":"Chariz"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.bossgfx.elysian.jpg",
-               "title":"Elysian",
-               "package":"com.bossgfx.elysian",
+               "url":"https://featuredpage.getsileo.app/banners/com.justnewdesigns.dove.jpg",
+               "title":"Dove Icons",
+               "package":"com.justnewdesigns.dove",
                "repoName":"Havoc"
             }
          ]
@@ -121,11 +121,11 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.ryant453.groups",
-                     "packageName":"Groups",
-                     "packageAuthor":"Ryan Trent",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.ryant453.groups.png"
+                     "package":"me.midnightchips.harpy-reloaded",
+                     "packageName":"Harpy Reloaded",
+                     "packageAuthor":"MidnightChips",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/me.midnightchips.harpy-reloaded.png"
                   },
                   {
                      "class":"FeaturedPackageView",
