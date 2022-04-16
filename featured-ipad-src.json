@@ -13,21 +13,21 @@
                "repoName":"Chariz"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.smokin1337.satellite.jpg",
-               "title":"Satellite",
-               "package":"com.smokin1337.satellite",
-               "repoName":"Havoc"
-            },
-            {
-               "url":"https://featuredpage.getsileo.app/banners/xyz.burritoz.thomz.multipla.jpg",
-               "title":"Multipla",
-               "package":"xyz.burritoz.thomz.multipla",
+               "url":"https://featuredpage.getsileo.app/banners/com.alphastream.linearforsb.jpg",
+               "title":"Linear",
+               "package":"com.alphastream.linearforsb",
                "repoName":"Chariz"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.justnewdesigns.dove.jpg",
-               "title":"Dove Icons",
-               "package":"com.justnewdesigns.dove",
+               "url":"https://featuredpage.getsileo.app/banners/com.furawa.parousia.jpg",
+               "title":"Parousia",
+               "package":"com.furawa.parousia",
+               "repoName":"Havoc"
+            },
+            {
+               "url":"https://featuredpage.getsileo.app/banners/com.smokin1337.satellite.jpg",
+               "title":"Satellite",
+               "package":"com.smokin1337.satellite",
                "repoName":"Havoc"
             }
          ]
@@ -54,11 +54,19 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.initwithframe.velvet",
-                     "packageName":"Velvet",
-                     "packageAuthor":"initWithFrame",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.initwithframe.velvet.png"
+                     "package":"com.nahtedetihw.volvibes",
+                     "packageName":"VolVibes",
+                     "packageAuthor":"ETHN",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.nahtedetihw.volvibes.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"com.ibagraphics.elusive",
+                     "packageName":"Elusive",
+                     "packageAuthor":"Iba_Graphics",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.ibagraphics.elusive.png"
                   },
                   {
                      "class":"FeaturedPackageView",
@@ -70,19 +78,11 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.stevsarm.harvest",
-                     "packageName":"Harvest",
-                     "packageAuthor":"stevsarm",
+                     "package":"com.ginsu.docksearch",
+                     "packageName":"DockSearch",
+                     "packageAuthor":"Ginsu",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.stevsarm.harvest.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"ws.hbang.newterm2",
-                     "packageName":"NewTerm 2",
-                     "packageAuthor":"HASHBANG Productions",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/ws.hbang.newterm2.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.ginsu.docksearch.png"
                   }
                ]
             },
@@ -97,19 +97,19 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.ryannair05.cylinder",
-                     "packageName":"Cylinder Reborn",
-                     "packageAuthor":"Ryan Nair",
+                     "package":"ws.hbang.newterm2",
+                     "packageName":"NewTerm 2",
+                     "packageAuthor":"HASHBANG Productions",
                      "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.ryannair05.cylinder.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/ws.hbang.newterm2.png"
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"weeb.lillie.youtubedislikesreturn",
-                     "packageName":"Return YouTube Dislike",
-                     "packageAuthor":"PoomSmart and kirb",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/weeb.lillie.youtubedislikesreturn.png"
+                     "package":"com.smokin1337.powerreach",
+                     "packageName":"PowerReach",
+                     "packageAuthor":"smokin",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.smokin1337.powerreach.png"
                   },
                   {
                      "class":"FeaturedPackageView",
