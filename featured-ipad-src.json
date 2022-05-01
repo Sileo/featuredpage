@@ -7,12 +7,6 @@
         "itemCornerRadius": 10,
         "banners":[
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.amywhile.aemulo.png",
-               "title":"Aemulo",
-               "package":"com.amywhile.aemulo",
-               "repoName":"Chariz"
-            },
-            {
                "url":"https://featuredpage.getsileo.app/banners/com.alphastream.linearforsb.jpg",
                "title":"Linear",
                "package":"com.alphastream.linearforsb",
@@ -25,9 +19,15 @@
                "repoName":"Havoc"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.smokin1337.satellite.jpg",
-               "title":"Satellite",
-               "package":"com.smokin1337.satellite",
+               "url":"https://featuredpage.getsileo.app/banners/com.amywhile.aemulo.png",
+               "title":"Aemulo",
+               "package":"com.amywhile.aemulo",
+               "repoName":"Chariz"
+            },
+            {
+               "url":"https://featuredpage.getsileo.app/banners/com.nahtedetihw.n95.jpg",
+               "title":"N95",
+               "package":"com.nahtedetihw.n95",
                "repoName":"Havoc"
             }
          ]
@@ -46,27 +46,27 @@
                   },
                   {
                      "class":"FeaturedPackageView",
+                     "package":"com.bank5ia.sydney",
+                     "packageName":"Sydney",
+                     "packageAuthor":"Bank5ia",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.bank5ia.sydney.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"com.BeBarhoum.Horias",
+                     "packageName":"Horias",
+                     "packageAuthor":"Iba_Graphics",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.BeBarhoum.Horias.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
                      "package":"com.cameronkatri.quickactions",
                      "packageName":"QuickActions",
                      "packageAuthor":"Cameron Katri",
                      "repoName":"Chariz",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.cameronkatri.quickactions.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.nahtedetihw.volvibes",
-                     "packageName":"VolVibes",
-                     "packageAuthor":"ETHN",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.nahtedetihw.volvibes.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.ibagraphics.elusive",
-                     "packageName":"Elusive",
-                     "packageAuthor":"Iba_Graphics",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.ibagraphics.elusive.png"
                   },
                   {
                      "class":"FeaturedPackageView",
@@ -78,11 +78,11 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.ginsu.docksearch",
-                     "packageName":"DockSearch",
-                     "packageAuthor":"Ginsu",
+                     "package":"com.nahtedetihw.volvibes",
+                     "packageName":"VolVibes",
+                     "packageAuthor":"ETHN",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.ginsu.docksearch.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.nahtedetihw.volvibes.png"
                   }
                ]
             },
@@ -97,19 +97,27 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"ws.hbang.newterm2",
-                     "packageName":"NewTerm 2",
-                     "packageAuthor":"HASHBANG Productions",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/ws.hbang.newterm2.png"
+                     "package":"com.opa334.crane",
+                     "packageName":"Crane",
+                     "packageAuthor":"opa334",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.opa334.crane.png"
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.smokin1337.powerreach",
-                     "packageName":"PowerReach",
-                     "packageAuthor":"smokin",
+                     "package":"com.qiop1379.swipeextenderx",
+                     "packageName":"SwipeExtenderX",
+                     "packageAuthor":"qwertyuiop1379",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.qiop1379.swipeextenderx.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"me.ahmedbafkir.dleasy",
+                     "packageName":"DLEasy",
+                     "packageAuthor":"AhmedBafkir",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.smokin1337.powerreach.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/me.ahmedbafkir.dleasy.png"
                   },
                   {
                      "class":"FeaturedPackageView",
@@ -121,19 +129,11 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"me.midnightchips.harpy-reloaded",
-                     "packageName":"Harpy Reloaded",
-                     "packageAuthor":"MidnightChips",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/me.midnightchips.harpy-reloaded.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"jp.soh.reprovision",
-                     "packageName":"ReProvision Reborn",
-                     "packageAuthor":"Soh Satoh, Matt Clarke",
+                     "package":"com.smokin1337.powerreach",
+                     "packageName":"PowerReach",
+                     "packageAuthor":"smokin",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/jp.soh.reprovision.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.smokin1337.powerreach.png"
                   }
                ]
             }
