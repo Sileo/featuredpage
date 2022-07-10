@@ -7,10 +7,10 @@
         "itemCornerRadius": 10,
         "banners":[
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.furawa.parousia.jpg",
-               "title":"Parousia",
-               "package":"com.furawa.parousia",
-               "repoName":"Havoc"
+               "url":"https://featuredpage.getsileo.app/banners/com.ginsu.killcontrol.jpg",
+               "title":"KillControl",
+               "package":"com.ginsu.killcontrol",
+               "repoName":"Ginsu"
             },
             {
                "url":"https://featuredpage.getsileo.app/banners/com.alphastream.linearforsb.jpg",
@@ -54,35 +54,35 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.laughingquoll.emerald",
-                     "packageName":"Emerald",
-                     "packageAuthor":"timeloop",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.laughingquoll.emerald.png"
+                     "package":"app.enmity",
+                     "packageName":"Enmity",
+                     "packageAuthor":"EnmityTeam",
+                     "repoName":"Enmity",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/app.enmity.png"
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.bank5ia.sydney",
-                     "packageName":"Sydney",
-                     "packageAuthor":"Bank5ia",
+                     "package":"h.ryan.youtubereborn",
+                     "packageName":"YouTube Reborn",
+                     "packageAuthor":"Lillie",
+                     "repoName":"Lillie",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/h.ryan.youtubereborn.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"com.cheeco.emotive",
+                     "packageName":"Emotive",
+                     "packageAuthor":"Cheeco",
                      "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.bank5ia.sydney.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.cheeco.emotive.png"
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"lol.itsnebula.modernos",
-                     "packageName":"modernOS",
-                     "packageAuthor":"Nebula",
+                     "package":"com.justnewdesigns.crayon",
+                     "packageName":"Crayon",
+                     "packageAuthor":"justnewdesigns",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/lol.itsnebula.modernos.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.anthopak.lastlook",
-                     "packageName":"LastLook",
-                     "packageAuthor":"AnthoPak",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.anthopak.lastlook.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.justnewdesigns.crayon.png"
                   }
                ]
             },
@@ -97,11 +97,19 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"me.midnightchips.relocateme",
-                     "packageName":"RelocateMe",
-                     "packageAuthor":"MidnightChips",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/me.midnightchips.relocateme.png"
+                     "package":"com.cemck.ambience",
+                     "packageName":"Ambience",
+                     "packageAuthor":"cemck",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.cemck.ambience.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"com.sugiuta.circleapps",
+                     "packageName":"CircleApps",
+                     "packageAuthor":"sugiuta",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.sugiuta.circleapps.png"
                   },
                   {
                      "class":"FeaturedPackageView",
@@ -110,14 +118,6 @@
                      "packageAuthor":"opa334",
                      "repoName":"Havoc",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.opa334.crane.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"ovh.exerhythm.cardculator",
-                     "packageName":"Cardculator",
-                     "packageAuthor":"sourcelocation",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/ovh.exerhythm.cardculator.png"
                   },
                   {
                      "class":"FeaturedPackageView",

@@ -62,8 +62,8 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"youtube-dl",
-                     "packageName":"youtube-dl",
+                     "package":"yt-dlp",
+                     "packageName":"yt-dlp",
                      "packageAuthor":"Hayden Seay",
                      "repoName":"Procursus",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/ws.hbang.newterm2.png"
