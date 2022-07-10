@@ -62,8 +62,8 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"youtube-dl",
-                     "packageName":"youtube-dl",
+                     "package":"yt-dlp",
+                     "packageName":"yt-dlp",
                      "packageAuthor":"Hayden Seay",
                      "repoName":"Procursus",
                      "packageIcon":"https://api.anamy.gay/404"
