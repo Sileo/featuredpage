@@ -7,7 +7,7 @@
         "itemCornerRadius": 10,
         "banners":[
             {
-               "url":"https://featuredpage.getsileo.app/bannerscom.foxfort.exiwall.jpg",
+               "url":"https://featuredpage.getsileo.app/banners/com.foxfort.exiwall.jpg",
                "title":"Exiwall",
                "package":"com.foxfort.exiwall",
                "repoName":"Foxfort"
