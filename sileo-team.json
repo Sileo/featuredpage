@@ -2,20 +2,8 @@
   {
     "github": "elihwyma",
     "author": "Amy",
-    "role": "Lead Maintainer",
+    "role": "Owner",
     "twitter": "https://www.twitter.com/elihwyma"
-  },
-  {
-    "github": "coolstar",
-    "author": "CoolStar",
-    "role": "Founder",
-    "twitter": "https://www.twitter.com/CStar_OW"
-  },
-  {
-    "github": "kabiroberai",
-    "author": "Kabir Oberai",
-    "role": "Founder",
-    "twitter": "https://www.twitter.com/kabiroberai"
   },
   {
     "github": "Sileo",
@@ -76,5 +64,17 @@
     "author": "SlimShadyIAm",
     "role": "Site Maintainer",
     "twitter": "https://www.twitter.com/slimshadydev"
+  },
+  {
+    "github": "coolstar",
+    "author": "CoolStar",
+    "role": "Founder",
+    "twitter": "https://www.twitter.com/CStar_OW"
+  },
+  {
+    "github": "kabiroberai",
+    "author": "Kabir Oberai",
+    "role": "Founder",
+    "twitter": "https://www.twitter.com/kabiroberai"
   }
 ]
