@@ -8,22 +8,22 @@
           "itemCornerRadius":10,
           "banners":[
              {
+                "url":"https://featuredpage.getsileo.app/banners/com.noisyflake.velvet2.jpg",
+                "title":"Velvet 2",
+                "package":"com.noisyflake.velvet2",
+                "repoName":"Chariz"
+             },
+             {
                 "url":"https://featuredpage.getsileo.app/banners/com.foxfort.exiwall.jpg",
                 "title":"Exiwall",
                 "package":"com.foxfort.exiwall",
-                "repoName":"Foxfort"
+                "repoName":"Havoc"
              },
              {
-                "url":"https://featuredpage.getsileo.app/banners/com.spark.snowboard.jpg",
-                "title":"Snowboard",
-                "package":"com.spark.snowboard",
-                "repoName":"Spark"
-             },
-             {
-                "url":"https://featuredpage.getsileo.app/banners/com.ginsu.dodo.jpg",
-                "title":"Dodo",
-                "package":"com.ginsu.dodo",
-                "repoName":"Ginsu"
+                "url":"https://featuredpage.getsileo.app/banners/org.coolstar.classicfolders3.jpg",
+                "title":"ClassFolders 3",
+               "package":"org.coolstar.classicfolders3",
+               "repoName":"Havoc"
              },
              {
                 "url":"https://featuredpage.getsileo.app/banners/com.amywhile.aemulo.png",
@@ -47,6 +47,14 @@
                       "useBoldText":true
                    },
                    {
+                     "class":"FeaturedPackageView",
+                      "package":"com.leftyfl1p.carbridge13",
+                      "packageName":"CarBridge",
+                      "packageAuthor":"leftyfl1p",
+                      "repoName":"Havoc",
+                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.leftyfl1p.carbridge13.png"
+                   },
+                   {
                       "class":"FeaturedPackageView",
                       "package":"me.lau.atria",
                       "packageName":"Atria",
@@ -56,19 +64,19 @@
                    },
                    {
                       "class":"FeaturedPackageView",
-                      "package":"cum.0xilis.badger",
-                      "packageName":"Badger",
-                      "packageAuthor":"0xilis",
+                      "package":"com.thenatis.lollipop",
+                      "packageName":"Lollipop",
+                      "packageAuthor":"wbraffman",
                       "repoName":"Havoc",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/cum.0xilis.badger.png"
+                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.thenatis.lollipop.png"
                    },
                    {
                       "class":"FeaturedPackageView",
-                      "package":"com.joyux.saige",
-                      "packageName":"Saige",
-                      "packageAuthor":"JoyUX",
+                      "package":"com.xerusdesign.junipero",
+                      "packageName":"Junipero",
+                      "packageAuthor":"xerusdesign",
                       "repoName":"Havoc",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.joyux.saige.png"
+                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.xerusdesign.junipero.png"
                    },
                    {
                       "class":"FeaturedPackageView",
@@ -77,14 +85,6 @@
                       "packageAuthor":"ubik",
                       "repoName":"Chariz",
                       "packageIcon":"https://featuredpage.getsileo.app/icons/hi.my.name.is.ubik.kalm.png"
-                   },
-                   {
-                      "class":"FeaturedPackageView",
-                      "package":"dr.erast.violet",
-                      "packageName":"Violet",
-                      "packageAuthor":"Matoi",
-                      "repoName":"Havoc",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/dr.erast.violet.png"
                    }
                 ]
              },
@@ -99,35 +99,35 @@
                    },
                    {
                       "class":"FeaturedPackageView",
-                      "package":"app.enmity",
-                      "packageName":"Enmity",
-                      "packageAuthor":"Enmity Team",
-                      "repoName":"Enmity",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/app.enmity.png"
+                      "package":"lunotech11.Legizmo.Kincaid",
+                      "packageName":"Legizmo 'Kincaid'",
+                      "packageAuthor":"lunotech11",
+                      "repoName":"Chariz",
+                      "packageIcon":"https://featuredpage.getsileo.app/icons/lunotech11.Legizmo.Kincaid.png"
                    },
                    {
                       "class":"FeaturedPackageView",
-                      "package":"com.tako3s.printemps",
-                      "packageName":"Printemps",
-                      "packageAuthor":"tako3s",
+                      "package":"com.mtac.ampere",
+                      "packageName":"Ampere",
+                      "packageAuthor":"mtac",
                       "repoName":"Havoc",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.tako3s.printemps.png"
+                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.mtac.ampere.png"
                    },
                    {
                       "class":"FeaturedPackageView",
-                      "package":"h.ryan.youtubereborn",
-                      "packageName":"YouTube Reborn",
-                      "packageAuthor":"Lillie",
-                      "repoName":"Lillie",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/h.ryan.youtubereborn.png"
+                      "package":"com.anthopak.lastlook",
+                      "packageName":"LastLook",
+                      "packageAuthor":"AnthoPak",
+                      "repoName":"Chariz",
+                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.anthopak.lastlook.png"
                    },
                    {
                       "class":"FeaturedPackageView",
-                      "package":"com.ginsu.lockapps",
-                      "packageName":"LockApps",
-                      "packageAuthor":"Ginsu",
-                      "repoName":"Ginsu",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.ginsu.lockapps.png"
+                      "package":"dr.erast.violet",
+                      "packageName":"Violet",
+                      "packageAuthor":"Matoi",
+                      "repoName":"Havoc",
+                      "packageIcon":"https://featuredpage.getsileo.app/icons/dr.erast.violet.png"
                    },
                    {
                       "class":"FeaturedPackageView",
