@@ -48,6 +48,14 @@
                    },
                    {
                      "class":"FeaturedPackageView",
+                     "package":"com.serena.antoine",
+                     "packageName":"Antoine",
+                     "packageAuthor":"Serena",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.serena.antoine.png"
+                  },
+                   {
+                     "class":"FeaturedPackageView",
                       "package":"com.leftyfl1p.carbridge13",
                       "packageName":"CarBridge",
                       "packageAuthor":"leftyfl1p",
@@ -77,14 +85,6 @@
                       "packageAuthor":"xerusdesign",
                       "repoName":"Havoc",
                       "packageIcon":"https://featuredpage.getsileo.app/icons/com.xerusdesign.junipero.png"
-                   },
-                   {
-                      "class":"FeaturedPackageView",
-                      "package":"hi.my.name.is.ubik.kalm",
-                      "packageName":"Kalm",
-                      "packageAuthor":"ubik",
-                      "repoName":"Chariz",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/hi.my.name.is.ubik.kalm.png"
                    }
                 ]
              },
