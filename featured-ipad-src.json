@@ -7,6 +7,12 @@
         "itemCornerRadius": 10,
         "banners":[
             {
+               "url":"https://featuredpage.getsileo.app/banners/com.serena.appindex.jpg",
+               "title":"AppIndex",
+               "package":"com.serena.appindex",
+               "repoName":"Chariz"
+            },
+            {
                "url":"https://featuredpage.getsileo.app/banners/com.noisyflake.velvet2.jpg",
                "title":"Velvet 2",
                "package":"com.noisyflake.velvet2",
@@ -16,12 +22,6 @@
                "url":"https://featuredpage.getsileo.app/banners/com.foxfort.exiwall.jpg",
                "title":"Exiwall",
                "package":"com.foxfort.exiwall",
-               "repoName":"Havoc"
-            },
-            {
-               "url":"https://featuredpage.getsileo.app/banners/org.coolstar.classicfolders3.jpg",
-               "title":"ClassicFolders 3",
-               "package":"org.coolstar.classicfolders3",
                "repoName":"Havoc"
             },
             {
