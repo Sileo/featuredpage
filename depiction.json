@@ -84,6 +84,94 @@
 			"tabname": "Changelog",
 			"views": [{
 					"class": "DepictionSubheaderView",
+					"title": "2.4.2",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Bug fixes and improvements",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.4.1",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Bug fixes and improvements",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.4",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Very patched together build that fixes rootless",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.3",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Added category icons, made by alpha\n- Added a handler for if sbreload fails to run\n- Updated localisations\n- Fixed bug where payments would fail on Face ID devices\n- Memory optimisations and reduce number of excess objects made\n- Fix bug where certain packages could cause a crash due to bad characters in versions\n- Change Havoc to be a default repo replacing Packix\n- Fixed bug where images would sometimes take longer than expected to load in\n- Fix misc crashes",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.2.5",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- New Page load time improvements and will now show a loading indicator after a reload\n- Fix a memory issue which caused jetsam issues for some people\n- Fix the race condition crash from the container queue",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.2.4-1",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Added support for Header control key removing requirement for it to be in depiction\n- Fix some errors when refreshing\n- Fix problems with black screen when using UICache\n- Fix UICache\n- Slight backend speed improvements\n- Fix issues with incorrectly formatted sources files\n- Fix some items not showing in Settings\n- Added more verbose error messages for helping debug",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.2.3",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Fix incorrect versions in Installed Packages",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.2.2",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Remove option to reinstall packages that have no repo (local installs)\n- Fix apt cannot find errors\n- Fix UICache behaviour\n- Fix package resolving for packages that provide\n- Mac: Fix crash on launch",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
 					"title": "2.2.1",
 					"useBoldText": true,
 					"useBottomMargin": false
