@@ -56,11 +56,11 @@
                   },
                    {
                      "class":"FeaturedPackageView",
-                      "package":"com.leftyfl1p.carbridge13",
-                      "packageName":"CarBridge",
-                      "packageAuthor":"leftyfl1p",
-                      "repoName":"Havoc",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.leftyfl1p.carbridge13.png"
+                     "package":"com.nightwind.boldersreborn",
+                     "packageName":"Bolders Reborn",
+                     "packageAuthor":"Nightwind",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.nightwind.boldersreborn.png"
                    },
                    {
                       "class":"FeaturedPackageView",
