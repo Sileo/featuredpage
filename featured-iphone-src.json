@@ -14,10 +14,10 @@
                 "repoName":"Chariz"
              },
              {
-                "url":"https://featuredpage.getsileo.app/banners/com.noisyflake.velvet2.jpg",
-                "title":"Velvet 2",
-                "package":"com.noisyflake.velvet2",
-                "repoName":"Chariz"
+                "url":"https://featuredpage.getsileo.app/banners/ovh.exerhythm.cardculator.jpg",
+                "title":"Cardculator",
+                "package":"ovh.exerhythm.cardculator",
+                "repoName":"Havoc"
              },
              {
                 "url":"https://featuredpage.getsileo.app/banners/com.foxfort.exiwall.jpg",
@@ -47,6 +47,14 @@
                       "useBoldText":true
                    },
                    {
+                      "class":"FeaturedPackageView",
+                      "package":"ovh.exerhythm.cardculator",
+                      "packageName":"Cardculator",
+                      "packageAuthor":"sourcelocation",
+                      "repoName":"Havoc",
+                      "packageIcon":"https://featuredpage.getsileo.app/icons/ovh.exerhythm.cardculator.png"
+                   },
+                   {
                      "class":"FeaturedPackageView",
                      "package":"com.serena.antoine",
                      "packageName":"Antoine",
@@ -69,14 +77,6 @@
                       "packageAuthor":"ren7995",
                       "repoName":"Chariz",
                       "packageIcon":"https://featuredpage.getsileo.app/icons/me.lau.atria.png"
-                   },
-                   {
-                      "class":"FeaturedPackageView",
-                      "package":"com.thenatis.lollipop",
-                      "packageName":"Lollipop",
-                      "packageAuthor":"wbraffman",
-                      "repoName":"Havoc",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.thenatis.lollipop.png"
                    },
                    {
                       "class":"FeaturedPackageView",
