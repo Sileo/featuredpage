@@ -82,7 +82,30 @@
 		{
 			"class": "DepictionStackView",
 			"tabname": "Changelog",
-			"views": [{
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.5",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Adds Dopamine, palera1n and Cookie icon\n- Adds opt-in Canister analytics, user will be shown a prompt on first launch\n- Adds support for iOS 17 jailbreaks",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.4",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Proper support for rootless\n- Improved Canister support, now using API v2\n- Search history is now shown\n- Custom theme creation\n- Decompression speed ups\n- Fix installing packages from deb\n- Overall speed ups",
+					"useSpacing": true
+				},
+				{
 					"class": "DepictionSubheaderView",
 					"title": "2.2.1",
 					"useBoldText": true,
