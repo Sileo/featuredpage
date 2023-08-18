@@ -48,11 +48,11 @@
                    },
                    {
                       "class":"FeaturedPackageView",
-                      "package":"ovh.exerhythm.cardculator",
-                      "packageName":"Cardculator",
-                      "packageAuthor":"sourcelocation",
-                      "repoName":"Havoc",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/ovh.exerhythm.cardculator.png"
+                      "package":"com.luf.joe",
+                      "packageName":"Joe",
+                      "packageAuthor":"luf",
+                      "repoName":"Chariz",
+                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.luf.joe.png"
                    },
                    {
                      "class":"FeaturedPackageView",
