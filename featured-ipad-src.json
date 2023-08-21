@@ -1,11 +1,12 @@
 {
-    "class": "FeaturedStackView",
-    "minVersion": "0.7",
-    "views": [{
-        "class": "FeaturedBannersView",
-        "itemSize": "{263, 148}",
-        "itemCornerRadius": 10,
-        "banners":[
+   "class":"FeaturedStackView",
+   "minVersion":"0.7",
+   "views":[
+      {
+         "class":"FeaturedBannersView",
+         "itemSize":"{263, 148}",
+         "itemCornerRadius":10,
+         "banners":[
             {
                "url":"https://featuredpage.getsileo.app/banners/me.tomt000.stageduo.jpg",
                "title":"Dynamic Stage",
@@ -31,10 +32,11 @@
                "repoName":"Chariz"
             }
          ]
-    }, {
-        "class": "FeaturedAutoStackView",
-        "horizontalSpacing": 50,
-        "views":[
+      },
+      {
+         "class":"FeaturedAutoStackView",
+         "horizontalSpacing":50,
+         "views":[
             {
                "class":"FeaturedStackView",
                "preferredWidth":400,
@@ -53,36 +55,36 @@
                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.luf.joe.png"
                   },
                   {
-                     "class":"FeaturedPackageView",
-                     "package":"com.serena.antoine",
-                     "packageName":"Antoine",
-                     "packageAuthor":"Serena",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.serena.antoine.png"
+                    "class":"FeaturedPackageView",
+                    "package":"com.jontelang.snapper3",
+                    "packageName":"Snapper 3",
+                    "packageAuthor":"jontelang",
+                    "repoName":"Havoc",
+                    "packageIcon":"https://featuredpage.getsileo.app/icons/com.jontelang.snapper3.png"
+                  },
+                  {
+                    "class":"FeaturedPackageView",
+                    "package":"com.serena.antoine",
+                    "packageName":"Antoine",
+                    "packageAuthor":"Serena",
+                    "repoName":"Chariz",
+                    "packageIcon":"https://featuredpage.getsileo.app/icons/com.serena.antoine.png"
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.nightwind.boldersreborn",
-                     "packageName":"Bolders Reborn",
-                     "packageAuthor":"Nightwind",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.nightwind.boldersreborn.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"me.lau.atria",
-                     "packageName":"Atria",
-                     "packageAuthor":"ren7995",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/me.lau.atria.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.xerusdesign.junipero",
-                     "packageName":"Junipero",
-                     "packageAuthor":"xerusdesign",
+                     "package":"com.thenatis.shimmer",
+                     "packageName":"Shimmer",
+                     "packageAuthor":"Thenatis",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.xerusdesign.junipero.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.thenatis.shimmer.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"com.mtac.alpine",
+                     "packageName":"Alpine",
+                     "packageAuthor":"mtac",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.mtac.alpine.png"
                   }
                ]
             },
@@ -104,28 +106,28 @@
                      "packageIcon":"https://featuredpage.getsileo.app/icons/lunotech11.Legizmo.Kincaid.png"
                   },
                   {
-                     "class":"FeaturedPackageView",
-                     "package":"com.mtac.ampere",
-                     "packageName":"Ampere",
-                     "packageAuthor":"mtac",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.mtac.ampere.png"
+                    "class":"FeaturedPackageView",
+                    "package":"com.anthopak.lastlook",
+                    "packageName":"LastLook",
+                    "packageAuthor":"AnthoPak",
+                    "repoName":"Chariz",
+                    "packageIcon":"https://featuredpage.getsileo.app/icons/com.anthopak.lastlook.png"
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.anthopak.lastlook",
-                     "packageName":"LastLook",
-                     "packageAuthor":"AnthoPak",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.anthopak.lastlook.png"
+                     "package":"com.leftyfl1p.carbridge13",
+                     "packageName":"CarBridge",
+                     "packageAuthor":"leftyfl1p",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.leftyfl1p.carbridge13.png"
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"dr.erast.violet",
-                     "packageName":"Violet",
-                     "packageAuthor":"Matoi",
+                     "package":"com.opa334.crane",
+                     "packageName":"Crane",
+                     "packageAuthor":"opa334",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/dr.erast.violet.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.opa334.crane.png"
                   },
                   {
                      "class":"FeaturedPackageView",
@@ -138,35 +140,46 @@
                ]
             }
          ]
-    }, {
-        "class": "FeaturedAutoStackView",
-        "horizontalSpacing": 0,
-        "views": [{
-            "class": "FeaturedStackView",
-            "preferredWidth": 400,
-            "xPadding": 8,
-            "views": [{
-                "class": "FeaturedStackView",
-                "orientation": "landscape",
-                "views": [{
-                    "class": "FeaturedButtonView",
-                    "text": "Twitter",
-                    "action": "https://twitter.com/GetSileo",
-                    "yPadding": 4
-                }, {
-                    "class": "FeaturedButtonView",
-                    "text": "Website",
-                    "action": "https://getsileo.app/",
-                    "yPadding": 4
-                }]
-            }, {
-                "class": "FeaturedButtonView",
-                "text": "Support",
-                "action": "https://getsileo.app/#support",
-                "yPadding": 4
-            }, {
-                "class": "FeaturedInfoFooterView"
-            }]
-        }]
-    }]
+      },
+      {
+         "class":"FeaturedAutoStackView",
+         "horizontalSpacing":0,
+         "views":[
+            {
+               "class":"FeaturedStackView",
+               "preferredWidth":400,
+               "xPadding":8,
+               "views":[
+                  {
+                     "class":"FeaturedStackView",
+                     "orientation":"landscape",
+                     "views":[
+                        {
+                           "class":"FeaturedButtonView",
+                           "text":"Twitter",
+                           "action":"https://twitter.com/GetSileo",
+                           "yPadding":4
+                        },
+                        {
+                           "class":"FeaturedButtonView",
+                           "text":"Website",
+                           "action":"https://getsileo.app/",
+                           "yPadding":4
+                        }
+                     ]
+                  },
+                  {
+                     "class":"FeaturedButtonView",
+                     "text":"Support",
+                     "action":"https://getsileo.app/#support",
+                     "yPadding":4
+                  },
+                  {
+                     "class":"FeaturedInfoFooterView"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
 }
