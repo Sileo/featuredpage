@@ -48,12 +48,12 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.luf.joe",
-                     "packageName":"Joe",
-                     "packageAuthor":"luf",
+                     "package":"com.nightwind.jade",
+                     "packageName":"Jade",
+                     "packageAuthor":"Nightwind",
                      "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.luf.joe.png"
-                  },
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.nightwind.jade.png"
+                   },
                   {
                     "class":"FeaturedPackageView",
                     "package":"com.jontelang.snapper3",

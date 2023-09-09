@@ -47,12 +47,12 @@
                       "useBoldText":true
                    },
                    {
-                      "class":"FeaturedPackageView",
-                      "package":"com.luf.joe",
-                      "packageName":"Joe",
-                      "packageAuthor":"luf",
-                      "repoName":"Chariz",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.luf.joe.png"
+                     "class":"FeaturedPackageView",
+                     "package":"com.nightwind.jade",
+                     "packageName":"Jade",
+                     "packageAuthor":"Nightwind",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.nightwind.jade.png"
                    },
                    {
                      "class":"FeaturedPackageView",
