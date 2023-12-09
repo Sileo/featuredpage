@@ -8,15 +8,15 @@
           "itemCornerRadius":10,
           "banners":[
              {
-                "url":"https://featuredpage.getsileo.app/banners/me.tomt000.stageduo.jpg",
-                "title":"Dynamic Stage",
-                "package":"me.tomt000.stageduo",
+                "url":"https://featuredpage.getsileo.app/banners/com.icraze.rune.jpg",
+                "title":"Rune",
+                "package":"com.icraze.rune",
                 "repoName":"Havoc"
              },
              {
-                "url":"https://featuredpage.getsileo.app/banners/com.icraze.neck-sus.jpg",
-                "title":"Nexus",
-                "package":"com.icraze.nexus",
+                "url":"https://featuredpage.getsileo.app/banners/me.tomt000.stageduo.jpg",
+                "title":"Dynamic Stage",
+                "package":"me.tomt000.stageduo",
                 "repoName":"Havoc"
              },
              {
@@ -64,11 +64,11 @@
                    },
                    {
                      "class":"FeaturedPackageView",
-                     "package":"com.serena.antoine",
-                     "packageName":"Antoine",
-                     "packageAuthor":"Serena",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.serena.antoine.png"
+                     "package":"com.icraze.nexus",
+                     "packageName":"Nexus",
+                     "packageAuthor":"iCraze",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.icraze.nexus.png"
                    },
                    {
                       "class":"FeaturedPackageView",
