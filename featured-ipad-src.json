@@ -48,6 +48,14 @@
                   },
                   {
                      "class":"FeaturedPackageView",
+                     "package":"com.antoine.senri",
+                     "packageName":"Senri",
+                     "packageAuthor":"Antoine",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.antoine.senri.png"
+                   },
+                  {
+                     "class":"FeaturedPackageView",
                      "package":"com.nightwind.jade",
                      "packageName":"Jade",
                      "packageAuthor":"Nightwind",
@@ -61,14 +69,6 @@
                     "packageAuthor":"jontelang",
                     "repoName":"Havoc",
                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.jontelang.snapper3.png"
-                  },
-                  {
-                    "class":"FeaturedPackageView",
-                    "package":"com.serena.antoine",
-                    "packageName":"Antoine",
-                    "packageAuthor":"Serena",
-                    "repoName":"Chariz",
-                    "packageIcon":"https://featuredpage.getsileo.app/icons/com.serena.antoine.png"
                   },
                   {
                      "class":"FeaturedPackageView",
