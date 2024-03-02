@@ -14,9 +14,9 @@
                "repoName":"Havoc"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.icraze.neck-sus.jpg",
-               "title":"Nexus",
-               "package":"com.icraze.nexus",
+               "url":"https://featuredpage.getsileo.app/banners/com.icraze.rune.jpg",
+               "title":"Rune",
+               "package":"com.icraze.rune",
                "repoName":"Havoc"
             },
             {
@@ -48,12 +48,28 @@
                   },
                   {
                      "class":"FeaturedPackageView",
+                     "package":"com.rosiepie.flora",
+                     "packageName":"Flora",
+                     "packageAuthor":"rosiepie",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.rosiepie.flora.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
                      "package":"com.antoine.kiyoharu",
                      "packageName":"Kiyoharu",
                      "packageAuthor":"Antoine",
                      "repoName":"Chariz",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.antoine.kiyoharu.png"
-                   },
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"jp.uzra.halo",
+                     "packageName":"HALO",
+                     "packageAuthor":"uzra",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/jp.uzra.halo.png"
+                  },
                   {
                      "class":"FeaturedPackageView",
                      "package":"com.nightwind.jade",
@@ -61,7 +77,7 @@
                      "packageAuthor":"Nightwind",
                      "repoName":"Chariz",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.nightwind.jade.png"
-                   },
+                  },
                   {
                     "class":"FeaturedPackageView",
                     "package":"com.jontelang.snapper3",
@@ -69,22 +85,6 @@
                     "packageAuthor":"jontelang",
                     "repoName":"Havoc",
                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.jontelang.snapper3.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.thenatis.shimmer",
-                     "packageName":"Shimmer",
-                     "packageAuthor":"Thenatis",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.thenatis.shimmer.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.mtac.alpine",
-                     "packageName":"Alpine",
-                     "packageAuthor":"mtac",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.mtac.alpine.png"
                   }
                ]
             },
@@ -104,6 +104,14 @@
                      "packageAuthor":"lunotech11",
                      "repoName":"Chariz",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/lunotech11.Legizmo.Lighthouse.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"com.noisyflake.velvet2",
+                     "packageName":"Velvet 2",
+                     "packageAuthor":"NoisyFlake",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.initwithframe.velvet.png"
                   },
                   {
                     "class":"FeaturedPackageView",
@@ -128,14 +136,6 @@
                      "packageAuthor":"opa334",
                      "repoName":"Havoc",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.opa334.crane.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.qiop1379.swipeextenderx",
-                     "packageName":"SwipeExtenderX",
-                     "packageAuthor":"qwertyuiop1379",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.qiop1379.swipeextenderx.png"
                   }
                ]
             }
