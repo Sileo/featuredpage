@@ -98,14 +98,6 @@
                      "useBoldText":true
                   },
                   {
-                     "class":"FeaturedPackageView",
-                     "package":"lunotech11.legizmo.kincaid",
-                     "packageName":"Legizmo 'Kincaid'",
-                     "packageAuthor":"lunotech11",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/lunotech11.Legizmo.Kincaid.png"
-                  },
-                  {
                     "class":"FeaturedPackageView",
                     "package":"com.anthopak.lastlook",
                     "packageName":"LastLook",
