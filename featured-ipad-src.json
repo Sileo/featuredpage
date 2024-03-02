@@ -97,6 +97,14 @@
                      "title":"What We're Using",
                      "useBoldText":true
                   },
+                   {
+                    "class":"FeaturedPackageView",
+                    "package":"com.nicho1asdev.bigsurcenter",
+                    "packageName":"BigSurCenter",
+                    "packageAuthor":"nicho1asdev",
+                    "repoName":"Havoc",
+                    "packageIcon":"https://featuredpage.getsileo.app/icons/com.nicho1asdev.bigsurcenter.png"
+                  },
                   {
                     "class":"FeaturedPackageView",
                     "package":"com.anthopak.lastlook",
