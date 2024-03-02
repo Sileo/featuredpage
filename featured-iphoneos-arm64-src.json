@@ -99,11 +99,11 @@
                    },
                    {
                       "class":"FeaturedPackageView",
-                      "package":"lunotech11.legizmo.kincaid",
-                      "packageName":"Legizmo 'Kincaid'",
+                      "package":"lunotech11.legizmo.lighthouse",
+                      "packageName":"Legizmo 'Lighthouse'",
                       "packageAuthor":"lunotech11",
                       "repoName":"Chariz",
-                      "packageIcon":"https://featuredpage.getsileo.app/icons/lunotech11.Legizmo.Kincaid.png"
+                      "packageIcon":"https://featuredpage.getsileo.app/icons/lunotech11.Legizmo.Lighthouse.png"
                    },
                    {
                      "class":"FeaturedPackageView",
