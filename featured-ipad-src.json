@@ -97,7 +97,7 @@
                      "title":"What We're Using",
                      "useBoldText":true
                   },
-                   {
+                  {
                     "class":"FeaturedPackageView",
                     "package":"com.nicho1asdev.bigsurcenter",
                     "packageName":"BigSurCenter",
@@ -112,7 +112,7 @@
                      "packageAuthor":"NoisyFlake",
                      "repoName":"Chariz",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.initwithframe.velvet.png"
-                   },
+                  },
                   {
                     "class":"FeaturedPackageView",
                     "package":"com.anthopak.lastlook",
