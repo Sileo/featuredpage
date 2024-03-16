@@ -8,9 +8,9 @@
          "itemCornerRadius":10,
          "banners":[
             {
-               "url":"https://featuredpage.getsileo.app/banners/me.tomt000.stageduo.jpg",
-               "title":"Dynamic Stage",
-               "package":"me.tomt000.stageduo",
+               "url":"https://featuredpage.getsileo.app/banners/com.uckermark.siriplus.jpg",
+               "title":"SiriPlus",
+               "package":"com.uckermark.siriplus",
                "repoName":"Havoc"
             },
             {
@@ -20,9 +20,9 @@
                "repoName":"Havoc"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.foxfort.exiwall.jpg",
-               "title":"Exiwall",
-               "package":"com.foxfort.exiwall",
+               "url":"https://featuredpage.getsileo.app/banners/me.tomt000.stageduo.jpg",
+               "title":"Dynamic Stage",
+               "package":"me.tomt000.stageduo",
                "repoName":"Havoc"
             },
             {
