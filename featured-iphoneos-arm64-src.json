@@ -2,36 +2,36 @@
     "class":"FeaturedStackView",
     "minVersion":"0.7",
     "views":[
-       {
-          "class":"FeaturedBannersView",
-          "itemSize":"{263, 148}",
-          "itemCornerRadius":10,
-          "banners":[
-             {
-                "url":"https://featuredpage.getsileo.app/banners/me.tomt000.stageduo.jpg",
-                "title":"Dynamic Stage",
-                "package":"me.tomt000.stageduo",
-                "repoName":"Havoc"
-             },
-             {
-                "url":"https://featuredpage.getsileo.app/banners/com.icraze.rune.jpg",
-                "title":"Rune",
-                "package":"com.icraze.rune",
-                "repoName":"Havoc"
-             },
-             {
-                "url":"https://featuredpage.getsileo.app/banners/com.foxfort.exiwall.jpg",
-                "title":"Exiwall",
-                "package":"com.foxfort.exiwall",
-                "repoName":"Havoc"
-             },
-             {
-                "url":"https://featuredpage.getsileo.app/banners/com.amywhile.aemulo.png",
-                "title":"Aemulo",
-                "package":"com.amywhile.aemulo",
-                "repoName":"Chariz"
-             }
-          ]
+      {
+         "class":"FeaturedBannersView",
+         "itemSize":"{263, 148}",
+         "itemCornerRadius":10,
+         "banners":[
+            {
+               "url":"https://featuredpage.getsileo.app/banners/com.uckermark.siriplus.jpg",
+               "title":"SiriPlus",
+               "package":"com.uckermark.siriplus",
+               "repoName":"Havoc"
+            },
+            {
+               "url":"https://featuredpage.getsileo.app/banners/com.icraze.rune.jpg",
+               "title":"Rune",
+               "package":"com.icraze.rune",
+               "repoName":"Havoc"
+            },
+            {
+               "url":"https://featuredpage.getsileo.app/banners/me.tomt000.stageduo.jpg",
+               "title":"Dynamic Stage",
+               "package":"me.tomt000.stageduo",
+               "repoName":"Havoc"
+            },
+            {
+               "url":"https://featuredpage.getsileo.app/banners/com.amywhile.aemulo.png",
+               "title":"Aemulo",
+               "package":"com.amywhile.aemulo",
+               "repoName":"Chariz"
+            }
+         ]
        },
        {
           "class":"FeaturedAutoStackView",
