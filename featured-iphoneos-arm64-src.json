@@ -8,9 +8,9 @@
          "itemCornerRadius":10,
          "banners":[
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.uckermark.siriplus.jpg",
-               "title":"SiriPlus",
-               "package":"com.uckermark.siriplus",
+               "url":"https://featuredpage.getsileo.app/banners/com.yan.bloom.jpg",
+               "title":"Bloom",
+               "package":"com.yan.bloom",
                "repoName":"Havoc"
             },
             {
