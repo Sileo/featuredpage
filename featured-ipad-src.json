@@ -8,15 +8,15 @@
          "itemCornerRadius":10,
          "banners":[
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.uckermark.siriplus.jpg",
-               "title":"SiriPlus",
-               "package":"com.uckermark.siriplus",
+               "url":"https://featuredpage.getsileo.app/banners/com.pixelomer.shijima-ios.jpg",
+               "title":"Shijima",
+               "package":"com.icraze.rune",
                "repoName":"Havoc"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.icraze.rune.jpg",
-               "title":"Rune",
-               "package":"com.icraze.rune",
+               "url":"https://featuredpage.getsileo.app/banners/com.yan.bloom.jpg",
+               "title":"Bloom",
+               "package":"com.yan.bloom",
                "repoName":"Havoc"
             },
             {
@@ -48,19 +48,62 @@
                   },
                   {
                      "class":"FeaturedPackageView",
+                     "package":"wiki.qaq.writenow",
+                     "packageName":"Write Now",
+                     "packageAuthor":"82flex, launchctl",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/wiki.qaq.writenow.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"com.nahtedetihw.doodle",
+                     "packageName":"Doodle",
+                     "packageAuthor":"ETHN, MTAC",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.nahtedetihw.doodle.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"com.mtac.bridge",
+                     "packageName":"Bridge",
+                     "packageAuthor":"ETHN, MTAC",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.mtac.bridge.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"com.noisyflake.velvet2",
+                     "packageName":"Velvet 2",
+                     "packageAuthor":"NoisyFlake",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.initwithframe.velvet.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"de.janis.glance",
+                     "packageName":"Glance",
+                     "packageAuthor":"Janis",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/de.janis.glance.png"
+                  }
+               ]
+            },
+            {
+               "class":"FeaturedStackView",
+               "preferredWidth":400,
+               "views":[
+                  {
+                     "class":"FeaturedHeaderView",
+                     "title":"What We're Using",
+                     "useBoldText":true
+                  },
+                  {
+                     "class":"FeaturedPackageView",
                      "package":"com.rosiepie.flora",
                      "packageName":"Flora",
                      "packageAuthor":"rosiepie",
                      "repoName":"Havoc",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.rosiepie.flora.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.antoine.kiyoharu",
-                     "packageName":"Kiyoharu",
-                     "packageAuthor":"Antoine",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.antoine.kiyoharu.png"
                   },
                   {
                      "class":"FeaturedPackageView",
@@ -77,49 +120,6 @@
                      "packageAuthor":"Nightwind",
                      "repoName":"Chariz",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.nightwind.jade.png"
-                   },
-                  {
-                    "class":"FeaturedPackageView",
-                    "package":"com.jontelang.snapper3",
-                    "packageName":"Snapper 3",
-                    "packageAuthor":"jontelang",
-                    "repoName":"Havoc",
-                    "packageIcon":"https://featuredpage.getsileo.app/icons/com.jontelang.snapper3.png"
-                  }
-               ]
-            },
-            {
-               "class":"FeaturedStackView",
-               "preferredWidth":400,
-               "views":[
-                  {
-                     "class":"FeaturedHeaderView",
-                     "title":"What We're Using",
-                     "useBoldText":true
-                  },
-                  {
-                    "class":"FeaturedPackageView",
-                    "package":"com.nicho1asdev.bigsurcenter",
-                    "packageName":"BigSurCenter",
-                    "packageAuthor":"nicho1asdev",
-                    "repoName":"Havoc",
-                    "packageIcon":"https://featuredpage.getsileo.app/icons/com.nicho1asdev.bigsurcenter.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.noisyflake.velvet2",
-                     "packageName":"Velvet 2",
-                     "packageAuthor":"NoisyFlake",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.initwithframe.velvet.png"
-                  },
-                  {
-                    "class":"FeaturedPackageView",
-                    "package":"com.anthopak.lastlook",
-                    "packageName":"LastLook",
-                    "packageAuthor":"AnthoPak",
-                    "repoName":"Chariz",
-                    "packageIcon":"https://featuredpage.getsileo.app/icons/com.anthopak.lastlook.png"
                   },
                   {
                      "class":"FeaturedPackageView",
