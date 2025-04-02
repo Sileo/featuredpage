@@ -8,9 +8,9 @@
          "itemCornerRadius":10,
          "banners":[
             {
-               "url": "https://featuredpage.getsileo.app/banners/com.yan.stella.jpg",
-               "title": "Stella",
-               "package": "com.yan.stella",
+               "url": "https://featuredpage.getsileo.app/banners/com.yan.anitime.jpg",
+               "title": "AniTime",
+               "package": "com.yan.anitime",
                "repoName": "Havoc"
             },
             {
@@ -72,11 +72,11 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.noisyflake.velvet2",
-                     "packageName":"Velvet 2",
-                     "packageAuthor":"NoisyFlake",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.initwithframe.velvet.png"
+                     "package":"com.yan.stella",
+                     "packageName":"Stella",
+                     "packageAuthor":"yandevelop",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.yan.stella.png"
                   },
                   {
                      "class":"FeaturedPackageView",
