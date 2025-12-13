@@ -8,6 +8,12 @@
          "itemCornerRadius":10,
          "banners":[
             {
+               "url": "https://featuredpage.getsileo.app/banners/jp.uzra.aerial.jpg",
+               "title": "Aerial",
+               "package": "jp.uzra.aerial",
+               "repoName": "Havoc"
+            },
+            {
                "url": "https://featuredpage.getsileo.app/banners/com.yan.anitime.jpg",
                "title": "AniTime",
                "package": "com.yan.anitime",
@@ -113,11 +119,11 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"jp.uzra.halo",
-                     "packageName":"HALO",
+                     "package":"jp.uzra.planetes",
+                     "packageName":"Planetes",
                      "packageAuthor":"uzra",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/jp.uzra.halo.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/jp.uzra.planetes.png"
                   },
                   {
                      "class":"FeaturedPackageView",
