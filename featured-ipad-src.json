@@ -113,11 +113,11 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"jp.uzra.nazuna",
-                     "packageName":"Nazuna",
+                     "package":"jp.uzra.planetes",
+                     "packageName":"Planetes",
                      "packageAuthor":"uzra",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/jp.uzra.nazuna.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/jp.uzra.planetes.png"
                   },
                   {
                      "class":"FeaturedPackageView",
