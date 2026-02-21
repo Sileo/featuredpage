@@ -8,16 +8,16 @@
          "itemCornerRadius":10,
          "banners":[
             {
-               "url": "https://featuredpage.getsileo.app/banners/jp.uzra.aerial.jpg",
-               "title": "Aerial",
-               "package": "jp.uzra.aerial",
+               "url": "https://featuredpage.getsileo.app/banners/com.icraze.sleepsaver2.jpg",
+               "title": "SleepSaver 2",
+               "package": "com.icraze.sleepsaver2",
                "repoName": "Havoc"
             },
             {
-               "url": "https://featuredpage.getsileo.app/banners/com.yan.anitime.jpg",
-               "title": "AniTime",
-               "package": "com.yan.anitime",
-               "repoName": "Havoc"
+               "url": "https://featuredpage.getsileo.app/banners/com.noisyflake.velvet2.jpg",
+               "title": "Velvet 2",
+               "package": "com.noisyflake.velvet2",
+               "repoName": "Chariz"
             },
             {
                "url":"https://featuredpage.getsileo.app/banners/com.pixelomer.shijima-ios.jpg",
@@ -60,33 +60,33 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"wiki.qaq.writenow",
-                     "packageName":"Write Now",
-                     "packageAuthor":"82flex, launchctl",
+                     "package":"com.mystery.lslyrics",
+                     "packageName":"LSLyrics",
+                     "packageAuthor":"Mysteryexe",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/wiki.qaq.writenow.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.mystery.lslyrics.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"fr.rootfs.rode",
+                     "packageName":"Rode",
+                     "packageAuthor":"rootfs",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/fr.rootfs.rode.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"com.anthopak.appaze3",
+                     "packageName":"Appaze 3",
+                     "packageAuthor":"AnthoPak",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.anthopak.appaze3.png"
                   },
                   {
                      "class":"FeaturedPackageView",
                      "package":"com.nahtedetihw.doodle",
                      "packageName":"Doodle",
                      "packageAuthor":"ETHN, MTAC",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.nahtedetihw.doodle.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.mtac.bridge",
-                     "packageName":"Bridge",
-                     "packageAuthor":"ETHN, MTAC",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.mtac.bridge.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.yan.stella",
-                     "packageName":"Stella",
-                     "packageAuthor":"yandevelop",
                      "repoName":"Havoc",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.initwithframe.velvet.png"
                   },
@@ -111,19 +111,19 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.rosiepie.flora",
-                     "packageName":"Flora",
-                     "packageAuthor":"rosiepie",
+                     "package":"com.icraze.scrobbit",
+                     "packageName":"Scrobbit",
+                     "packageAuthor":"iCraze",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.rosiepie.flora.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.icraze.scrobbit.png"
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"jp.uzra.planetes",
-                     "packageName":"Planetes",
-                     "packageAuthor":"uzra",
+                     "package":"com.fiore.calculatorconverter",
+                     "packageName":"CalculatorConverter",
+                     "packageAuthor":"fiore",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/jp.uzra.planetes.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.fiore.calculatorconverter.png"
                   },
                   {
                      "class":"FeaturedPackageView",
