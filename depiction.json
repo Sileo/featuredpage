@@ -7,7 +7,7 @@
 			"tabname": "Details",
 			"views": [{
 					"class": "DepictionMarkdownView",
-					"markdown": "Unpack the full potential of your device with a proper package manager for iOS 12 and higher!\n\nSileo is a package manager for iOS that allows users to find and install packages on jailbroken iOS devices. Sileo is based on APT, ported to iOS.",
+					"markdown": "Unpack the full potential of your device with a proper package manager for iOS 11 and higher!\n\nSileo is a package manager for iOS that allows users to find and install packages on jailbroken iOS devices. Sileo is based on APT, ported to iOS.",
 					"useSpacing": true
 				},
 				{
@@ -21,7 +21,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "#### Native and Modern\n\nSileo has been designed and built from the ground up to work properly with all devices on iOS 12+. It features a modern UI that emphasises native UI elements, with fully native package depictions on supported repos! It also allows repositories to handle payments seamlessly and natively with payments secured by Touch/Face ID.\n\nSileo uses the latest versions of both DPKG and APT to ensure that users get the best possible experience with the latest optimizations and stability fixes applied for both. Both DPKG and APT have minimal patches to ensure they may continue to be updated, while still being compatible with most existing iOS repositories.",
+					"markdown": "#### Native and Modern\n\nSileo has been designed and built from the ground up to work properly with all devices on iOS 11+. It features a modern UI that emphasises native UI elements, with fully native package depictions on supported repos! It also allows repositories to handle payments seamlessly and natively with payments secured by Touch/Face ID.\n\nSileo uses the latest versions of both DPKG and APT to ensure that users get the best possible experience with the latest optimizations and stability fixes applied for both. Both DPKG and APT have minimal patches to ensure they may continue to be updated, while still being compatible with most existing iOS repositories.",
 					"useSpacing": true
 				},
 				{
@@ -48,7 +48,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "#### Fast\n\nSileo has been designed from the ground up to run quickly and efficiently. Repositories load faster, without blocking the UI to reload data. Many infrequently-used APT features have not been brought over to Sileo to keep it lean and fast.\n\n#### Integrated\n\nBecause Sileo has been built with the latest DPKG and APT in mind, they all have been updated to ensure they work together in the most efficient manner possible. Great effort has been taken to ensure that the entire process from app launch to package installation has been streamlined, with no processes being duplicated where possible, to ensure a better, faster, and more stable overall experience.\n\n#### Free\n\nSileo is available, free of charge, for all devices on iOS 12 and up",
+					"markdown": "#### Fast\n\nSileo has been designed from the ground up to run quickly and efficiently. Repositories load faster, without blocking the UI to reload data. Many infrequently-used APT features have not been brought over to Sileo to keep it lean and fast.\n\n#### Integrated\n\nBecause Sileo has been built with the latest DPKG and APT in mind, they all have been updated to ensure they work together in the most efficient manner possible. Great effort has been taken to ensure that the entire process from app launch to package installation has been streamlined, with no processes being duplicated where possible, to ensure a better, faster, and more stable overall experience.\n\n#### Free\n\nSileo is available, free of charge, for all devices on iOS 11 and up",
 					"useSpacing": true
 				},
 				{
@@ -103,6 +103,94 @@
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "- Proper support for rootless\n- Improved Canister support, now using API v2\n- Search history is now shown\n- Custom theme creation\n- Decompression speed ups\n- Fix installing packages from deb\n- Overall speed ups",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.4.2",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Bug fixes and improvements",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.4.1",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Bug fixes and improvements",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.4",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Very patched together build that fixes rootless",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.3",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Added category icons, made by alpha\n- Added a handler for if sbreload fails to run\n- Updated localisations\n- Fixed bug where payments would fail on Face ID devices\n- Memory optimisations and reduce number of excess objects made\n- Fix bug where certain packages could cause a crash due to bad characters in versions\n- Change Havoc to be a default repo replacing Packix\n- Fixed bug where images would sometimes take longer than expected to load in\n- Fix misc crashes",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.2.5",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- New Page load time improvements and will now show a loading indicator after a reload\n- Fix a memory issue which caused jetsam issues for some people\n- Fix the race condition crash from the container queue",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.2.4-1",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Added support for Header control key removing requirement for it to be in depiction\n- Fix some errors when refreshing\n- Fix problems with black screen when using UICache\n- Fix UICache\n- Slight backend speed improvements\n- Fix issues with incorrectly formatted sources files\n- Fix some items not showing in Settings\n- Added more verbose error messages for helping debug",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.2.3",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Fix incorrect versions in Installed Packages",
+					"useSpacing": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"title": "2.2.2",
+					"useBoldText": true,
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "- Remove option to reinstall packages that have no repo (local installs)\n- Fix apt cannot find errors\n- Fix UICache behaviour\n- Fix package resolving for packages that provide\n- Mac: Fix crash on launch",
 					"useSpacing": true
 				},
 				{
