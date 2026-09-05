@@ -8,22 +8,22 @@
          "itemCornerRadius":10,
          "banners":[
             {
+               "url": "https://featuredpage.getsileo.app/banners/org.haxi0.lunar.reborn.jpg",
+               "title": "Lunar Reborn",
+               "package": "org.haxi0.lunar.reborn",
+               "repoName": "Havoc"
+            },
+            {
                "url": "https://featuredpage.getsileo.app/banners/com.icraze.sleepsaver2.jpg",
                "title": "SleepSaver 2",
                "package": "com.icraze.sleepsaver2",
                "repoName": "Havoc"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/me.tomt000.stageduo.jpg",
-               "title":"Dynamic Stage",
-               "package":"me.tomt000.stageduo",
-               "repoName":"Havoc"
-            },
-            {
-               "url": "https://featuredpage.getsileo.app/banners/com.noisyflake.velvet2.jpg",
-               "title": "Velvet 2",
-               "package": "com.noisyflake.velvet2",
-               "repoName": "Chariz"
+               "url":"https://featuredpage.getsileo.app/banners/com.nightwind.boldersreborn.jpg",
+               "title":"Bolders Reborn",
+               "package":"com.nightwind.boldersreborn",
+               "repoName":"Chariz"
             },
             {
                "url":"https://featuredpage.getsileo.app/banners/com.pixelomer.shijima-ios.jpg",
@@ -54,6 +54,14 @@
                   },
                   {
                      "class":"FeaturedPackageView",
+                     "package":"com.yves.nextup3",
+                     "packageName":"NextUp 3",
+                     "packageAuthor":"Yves",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.yves.nextup3.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
                      "package":"com.mystery.lslyrics",
                      "packageName":"LSLyrics",
                      "packageAuthor":"Mysteryexe",
@@ -62,11 +70,19 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"fr.rootfs.rode",
-                     "packageName":"Rode",
-                     "packageAuthor":"rootfs",
+                     "package":"com.nahtedetihw.doodle",
+                     "packageName":"Doodle",
+                     "packageAuthor":"ETHN, MTAC",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/fr.rootfs.rode.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.nahtedetihw.doodle.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"jp.dcsyhi.zetsu",
+                     "packageName":"Zetsu",
+                     "packageAuthor":"Dcsyhi",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/jp.dcsyhi.zetsu.png"
                   },
                   {
                      "class":"FeaturedPackageView",
@@ -75,22 +91,6 @@
                      "packageAuthor":"AnthoPak",
                      "repoName":"Chariz",
                      "packageIcon":"https://featuredpage.getsileo.app/icons/com.anthopak.appaze3.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"de.janis.glance",
-                     "packageName":"Glance",
-                     "packageAuthor":"Janis",
-                     "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/de.janis.glance.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.nahtedetihw.doodle",
-                     "packageName":"Doodle",
-                     "packageAuthor":"ETHN, MTAC",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.nahtedetihw.doodle.png"
                   }
                ]
             },
