@@ -8,15 +8,21 @@
          "itemCornerRadius":10,
          "banners":[
             {
+               "url": "https://featuredpage.getsileo.app/banners/com.antonym.glint.png",
+               "title": "Glint",
+               "package": "com.antonym.glint",
+               "repoName": "Chariz"
+            },
+            {
+               "url":"https://featuredpage.getsileo.app/banners/com.ichitaso.horythia.png",
+               "title":"Horythia",
+               "package":"com.ichitaso.horythia",
+               "repoName":"Havoc"
+            },
+            {
                "url": "https://featuredpage.getsileo.app/banners/org.haxi0.lunar.reborn.jpg",
                "title": "Lunar Reborn",
                "package": "org.haxi0.lunar.reborn",
-               "repoName": "Havoc"
-            },
-            {
-               "url": "https://featuredpage.getsileo.app/banners/com.icraze.sleepsaver2.jpg",
-               "title": "SleepSaver 2",
-               "package": "com.icraze.sleepsaver2",
                "repoName": "Havoc"
             },
             {
@@ -26,22 +32,16 @@
                "repoName":"Chariz"
             },
             {
-               "url":"https://featuredpage.getsileo.app/banners/com.yan.bloom.jpg",
-               "title":"Bloom",
-               "package":"com.yan.bloom",
-               "repoName":"Havoc"
-            },
-            {
-               "url":"https://featuredpage.getsileo.app/banners/com.pixelomer.shijima-ios.jpg",
-               "title":"Shijima",
-               "package":"com.pixelomer.shijima-ios",
-               "repoName":"Havoc"
+               "url": "https://featuredpage.getsileo.app/banners/com.icraze.sleepsaver2.jpg",
+               "title": "SleepSaver 2",
+               "package": "com.icraze.sleepsaver2",
+               "repoName": "Havoc"
             },
             {
                "url":"https://featuredpage.getsileo.app/banners/com.amywhile.aemulo.png",
                "title":"Aemulo",
                "package":"com.amywhile.aemulo",
-               "repoName":"Chariz"
+               "repoName":"Havoc"
             }
          ]
       },
@@ -60,43 +60,43 @@
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.yves.nextup3",
-                     "packageName":"NextUp 3",
-                     "packageAuthor":"Yves",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.yves.nextup3.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"com.kernelrw.adytum",
-                     "packageName":"Adytum",
-                     "packageAuthor":"Kernelrw",
+                     "package":"com.witu.ntfy",
+                     "packageName":"ntfy",
+                     "packageAuthor":"witu",
                      "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.kernelrw.adytum.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.witu.ntfy.png"
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.cemck.killxpro",
-                     "packageName":"KillX Pro Neo",
-                     "packageAuthor":"cemck",
+                     "package":"moe.waru.jikan",
+                     "packageName":"Jikan",
+                     "packageAuthor":"waruhachi",
                      "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.cemck.killxpro.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/moe.waru.jikan.png"
                   },
                   {
                      "class":"FeaturedPackageView",
-                     "package":"com.nahtedetihw.doodle",
-                     "packageName":"Doodle",
-                     "packageAuthor":"ETHN, MTAC",
-                     "repoName":"Havoc",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.nahtedetihw.doodle.png"
-                  },
-                  {
-                     "class":"FeaturedPackageView",
-                     "package":"jp.dcsyhi.zetsu",
-                     "packageName":"Zetsu",
-                     "packageAuthor":"Dcsyhi",
+                     "package":"com.ryannair05.cylinder",
+                     "packageName":"Cylinder Reborn",
+                     "packageAuthor":"Ryan Nair",
                      "repoName":"Chariz",
-                     "packageIcon":"https://featuredpage.getsileo.app/icons/jp.dcsyhi.zetsu.png"
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.ryannair05.cylinder"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"meow.bakera1n.legacyfolder26",
+                     "packageName":"LegacyFolder26",
+                     "packageAuthor":"bakera1n",
+                     "repoName":"Havoc",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/meow.bakera1n.legacyfolder26.png"
+                  },
+                  {
+                     "class":"FeaturedPackageView",
+                     "package":"com.antonym.easyswipe",
+                     "packageName":"EasySwipe",
+                     "packageAuthor":"Antony .M",
+                     "repoName":"Chariz",
+                     "packageIcon":"https://featuredpage.getsileo.app/icons/com.antonym.easyswipe.png"
                   }
                ]
             },
